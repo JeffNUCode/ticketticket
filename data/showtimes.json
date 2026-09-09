@@ -1,0 +1,920 @@
+[
+  {
+    "movie_id": "tmdb-1302904",
+    "title": "Practical Magic 2",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-09T20:45:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1745759",
+    "title": "Life After You",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-10T11:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-197976",
+    "title": "Himala",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-10T11:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1101412",
+    "title": "Fall 2: Deadpoint",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-10T12:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1545621",
+    "title": "Detective Conan: Fallen Angel of the Highway",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-10T12:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-969681",
+    "title": "Spider-Man: Brand New Day",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-10T13:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1302904",
+    "title": "Practical Magic 2",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-10T13:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-35881",
+    "title": "One More Chance",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-10T14:10:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1291595",
+    "title": "Insidious: Out of the Further",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-10T14:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1422011",
+    "title": "It Ends",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-10T15:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-969681",
+    "title": "Spider-Man: Brand New Day",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-10T16:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1745759",
+    "title": "Life After You",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-10T16:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-205015",
+    "title": "Four Sisters and a Wedding",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-10T16:50:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1545621",
+    "title": "Detective Conan: Fallen Angel of the Highway",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-10T17:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1101412",
+    "title": "Fall 2: Deadpoint",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-10T17:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-969681",
+    "title": "Spider-Man: Brand New Day",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-10T19:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1302904",
+    "title": "Practical Magic 2",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-10T19:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1291595",
+    "title": "Insidious: Out of the Further",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-10T19:15:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1422011",
+    "title": "It Ends",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-10T19:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-230562",
+    "title": "Tanging Yaman",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-10T19:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-35881",
+    "title": "One More Chance",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-11T11:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1447853",
+    "title": "Oasis: Don't Look Back In Anger",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-11T12:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1302904",
+    "title": "Practical Magic 2",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-11T14:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-205015",
+    "title": "Four Sisters and a Wedding",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-11T14:10:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-230562",
+    "title": "Tanging Yaman",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-11T16:50:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1447853",
+    "title": "Oasis: Don't Look Back In Anger",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-11T17:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-85265",
+    "title": "Anak",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-11T19:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1302904",
+    "title": "Practical Magic 2",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-11T20:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-230562",
+    "title": "Tanging Yaman",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-13T11:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1447853",
+    "title": "Oasis: Don't Look Back In Anger",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-13T12:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1302904",
+    "title": "Practical Magic 2",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-13T14:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-85265",
+    "title": "Anak",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-13T14:10:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-197976",
+    "title": "Himala",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-13T16:50:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1447853",
+    "title": "Oasis: Don't Look Back In Anger",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-13T17:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-35881",
+    "title": "One More Chance",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-13T19:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1302904",
+    "title": "Practical Magic 2",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-13T20:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1302904",
+    "title": "Practical Magic 2",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-14T14:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1302904",
+    "title": "Practical Magic 2",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-14T20:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1302904",
+    "title": "Practical Magic 2",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-15T14:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1302904",
+    "title": "Practical Magic 2",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-15T20:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1423191",
+    "title": "Resident Evil",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-16T13:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1423191",
+    "title": "Resident Evil",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-16T17:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1423191",
+    "title": "Resident Evil",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-17T13:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1423191",
+    "title": "Resident Evil",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-17T19:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1423191",
+    "title": "Resident Evil",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-18T13:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1423191",
+    "title": "Resident Evil",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-18T17:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1465063",
+    "title": "Forgotten Island",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-19T12:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-19T16:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1465063",
+    "title": "Forgotten Island",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-19T17:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1423191",
+    "title": "Resident Evil",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-19T18:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1423191",
+    "title": "Resident Evil",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-19T20:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-19T20:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1465063",
+    "title": "Forgotten Island",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-20T12:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-20T16:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1465063",
+    "title": "Forgotten Island",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-20T17:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1423191",
+    "title": "Resident Evil",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-20T17:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1423191",
+    "title": "Resident Evil",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-20T19:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-20T20:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1423191",
+    "title": "Resident Evil",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-21T13:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1423191",
+    "title": "Resident Evil",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-21T17:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1423191",
+    "title": "Resident Evil",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-22T13:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1423191",
+    "title": "Resident Evil",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-22T17:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-23T12:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-23T14:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-23T17:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-23T19:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-24T12:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-24T17:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-25T12:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-25T17:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-26T17:45:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-26T20:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-27T17:45:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-27T20:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-28T12:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-28T17:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-29T12:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1263337",
+    "title": "Heart of the Beast",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-29T17:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-30T11:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-30T14:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-09-30T16:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-01T11:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-01T14:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-01T16:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-02T11:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-02T14:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-02T16:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-03T14:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-03T16:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-03T19:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-04T15:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-04T18:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-04T20:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-05T11:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-05T16:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-05T19:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-06T11:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-06T14:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1748404",
+    "title": "Always Yours, Never Mine",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-06T16:30:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1489932",
+    "title": "ALWAYS LALISA",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-12T19:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1489932",
+    "title": "ALWAYS LALISA",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-14T19:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  },
+  {
+    "movie_id": "tmdb-1489932",
+    "title": "ALWAYS LALISA",
+    "cinema_id": "c-sm-dasma",
+    "screen_type": "2D",
+    "start_time": "2026-10-17T19:00:00+08:00",
+    "price": null,
+    "booking_direct_url": "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402"
+  }
+]

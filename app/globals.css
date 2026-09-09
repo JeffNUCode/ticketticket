@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 4%;
+    --foreground: 0 0% 98%;
+    --card: 0 0% 7%;
+    --card-foreground: 0 0% 98%;
+    --popover: 0 0% 6%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 50 100% 50%;
+    --primary-foreground: 0 0% 0%;
+    --secondary: 249 50% 18%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 0 0% 12%;
+    --muted-foreground: 0 0% 68%;
+    --accent: 173 71% 49%;
+    --accent-foreground: 0 0% 0%;
+    --destructive: 333 100% 59%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 249 40% 22%;
+    --input: 249 40% 22%;
+    --ring: 50 100% 50%;
+    --radius: 0.75rem;
+  }
+
+  html {
+    @apply bg-neutral-950 text-white antialiased;
+  }
+
+  body {
+    @apply min-h-dvh bg-neutral-950 text-white;
+    background-image: radial-gradient(rgba(59, 31, 217, 0.22) 1px, transparent 1px);
+    background-size: 28px 22px;
+    background-attachment: fixed;
+  }
+
+  ::selection {
+    @apply bg-zap text-black;
+  }
+
+  :focus-visible {
+    @apply outline-none ring-2 ring-zap ring-offset-2 ring-offset-neutral-950;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer utilities {
+  /* Horizontal rails scroll by swipe/drag; the native bar just adds chrome. */
+  .no-scrollbar {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@layer components {
+  /* Brand-loud: header, empty states, primary CTAs. */
+  .sticker {
+    @apply rounded-2xl border-2 border-ink bg-neutral-950 shadow-pop-sm;
+  }
+
+  /* Content-quiet: listings, tables, reviews. */
+  .panel {
+    @apply rounded-2xl border border-white/10 bg-neutral-950/80;
+  }
+
+  .page-title {
+    @apply font-display text-3xl font-extrabold tracking-tight text-white sm:text-4xl;
+  }
+
+  .section-title {
+    @apply font-display text-lg font-bold text-white;
+  }
+
+  .press {
+    @apply transition-transform active:translate-y-px;
+  }
+
+  details > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .press {
+      @apply active:translate-y-0;
+    }
+  }
+}

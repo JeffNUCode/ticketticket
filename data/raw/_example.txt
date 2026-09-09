@@ -1,0 +1,13 @@
+# Copy today's schedule off the cinema's official page, then run: npm run ingest
+# Files starting with "_" are ignored. Name real ones like: sm-megamall-2026-09-10.txt
+# cinema ids live in lib/seed.ts (c-sm-mega, c-sm-moa, c-ayala-gc, ...)
+
+cinema: c-sm-mega
+date: 2026-09-10
+
+# Title | FORMAT | PRICE     (format defaults to 2D, price optional)
+Wicked: For Good | 2D | 320
+11:00 AM, 1:40 PM, 4:20 PM, 7:00 PM
+
+Zootopia 2 | 3D | 380
+10:30 AM, 1:00 PM, 3:30 PM

@@ -1,0 +1,44 @@
+# SUPERSEDED — kept as a reference sample of the paste format.
+# The `_` prefix makes `npm run ingest` skip this file. Sep 10 now comes from
+# `npm run capture:sm`, which read SM's own API and found this transcription wrong:
+# One More Chance has one slot (2:10 PM), not three — 4:30 PM is Life After You and
+# 7:30 PM is Tanging Yaman. Detective Conan 5:00 PM and It Ends 7:30 PM were missed.
+#
+# SM Dasmariñas — 10 Sep 2026
+# Source: https://www.smcinema.com/sites/SM-City-Dasmarinas/2402 (printed 9/9/26, 7:18 PM)
+
+cinema: c-sm-dasma
+date: 2026-09-10
+
+Detective Conan: Fallen Angel of the Highway | 2D
+12:30 PM
+
+Fall 2: Deadpoint | 2D
+12:00 PM, 5:00 PM
+
+Four Sisters and a Wedding | 2D
+4:50 PM
+
+Himala | 2D
+11:30 AM
+
+Insidious: Out of the Further | 2D
+2:30 PM, 7:15 PM
+
+It Ends | 2D
+3:00 PM
+
+Life After You | 2D
+11:00 AM
+
+One More Chance | 2D
+2:10 PM, 4:30 PM, 7:30 PM
+
+Practical Magic 2 | 2D
+1:30 PM, 7:00 PM
+
+Spider-Man: Brand New Day | 2D
+1:00 PM, 4:00 PM, 7:00 PM
+
+Tanging Yaman | 2D
+7:30 PM
