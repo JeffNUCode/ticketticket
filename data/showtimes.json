@@ -118233,6 +118233,15 @@
     "booking_direct_url": "https://www.robinsonsmovieworld.com/"
   },
   {
+    "movie_id": "tmdb-1760447",
+    "title": "PLUMP BLOSSOM",
+    "cinema_id": "c-rob-naga",
+    "screen_type": "2D",
+    "start_time": "2026-09-25T12:35:00+08:00",
+    "price": 230,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
+  },
+  {
     "movie_id": "tmdb-1423191",
     "title": "RESIDENT EVIL",
     "cinema_id": "c-rob-roxas",
@@ -118384,6 +118393,15 @@
     "start_time": "2026-09-25T12:45:00+08:00",
     "price": null,
     "booking_direct_url": "https://powerplantcinema.com/bin/homepage.php"
+  },
+  {
+    "movie_id": "tmdb-1291595",
+    "title": "INSIDIOUS: OUT OF THE FURTHER",
+    "cinema_id": "c-rob-antipolo",
+    "screen_type": "2D",
+    "start_time": "2026-09-25T12:45:00+08:00",
+    "price": 350,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
   },
   {
     "movie_id": "tmdb-1465063",
@@ -122031,6 +122049,15 @@
     "booking_direct_url": "https://tickets.megaworldcinemas.com/products/forgotten-island-venice-cinema-1?group=venice-cineplex"
   },
   {
+    "movie_id": "tmdb-1291595",
+    "title": "INSIDIOUS: OUT OF THE FURTHER",
+    "cinema_id": "c-rob-antipolo",
+    "screen_type": "2D",
+    "start_time": "2026-09-25T15:00:00+08:00",
+    "price": 350,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
+  },
+  {
     "movie_id": "tmdb-1101412",
     "title": "FALL 2: DEADPOINT",
     "cinema_id": "c-rob-antique",
@@ -126081,6 +126108,15 @@
     "booking_direct_url": "https://www.ayalaallaccess.com/sites/Ayala-Malls-Capitol-Central/1021"
   },
   {
+    "movie_id": "tmdb-1291595",
+    "title": "INSIDIOUS: OUT OF THE FURTHER",
+    "cinema_id": "c-rob-antipolo",
+    "screen_type": "2D",
+    "start_time": "2026-09-25T17:15:00+08:00",
+    "price": 350,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
+  },
+  {
     "movie_id": "tmdb-1263337",
     "title": "HEART OF THE BEAST",
     "cinema_id": "c-rob-antique",
@@ -127464,6 +127500,15 @@
     "screen_type": "2D",
     "start_time": "2026-09-25T18:05:00+08:00",
     "price": 322,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
+  },
+  {
+    "movie_id": "tmdb-1760447",
+    "title": "PLUMP BLOSSOM",
+    "cinema_id": "c-rob-naga",
+    "screen_type": "2D",
+    "start_time": "2026-09-25T18:05:00+08:00",
+    "price": 230,
     "booking_direct_url": "https://www.robinsonsmovieworld.com/"
   },
   {
@@ -129402,6 +129447,15 @@
     "booking_direct_url": "https://www.ayalaallaccess.com/sites/Greenbelt/1003"
   },
   {
+    "movie_id": "tmdb-1541560",
+    "title": "STOP! THAT! TRAIN!",
+    "cinema_id": "c-rob-galleria-cebu",
+    "screen_type": "2D",
+    "start_time": "2026-09-25T19:05:00+08:00",
+    "price": 300,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
+  },
+  {
     "movie_id": "tmdb-1423191",
     "title": "RESIDENT EVIL",
     "cinema_id": "c-rob-palawan",
@@ -129471,6 +129525,15 @@
     "screen_type": "2D",
     "start_time": "2026-09-25T19:15:00+08:00",
     "price": 360,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
+  },
+  {
+    "movie_id": "tmdb-1541560",
+    "title": "STOP! THAT! TRAIN!",
+    "cinema_id": "c-rob-pavia",
+    "screen_type": "2D",
+    "start_time": "2026-09-25T19:15:00+08:00",
+    "price": 300,
     "booking_direct_url": "https://www.robinsonsmovieworld.com/"
   },
   {
@@ -129791,6 +129854,15 @@
   {
     "movie_id": "tmdb-1263337",
     "title": "HEART OF THE BEAST",
+    "cinema_id": "c-rob-antipolo",
+    "screen_type": "2D",
+    "start_time": "2026-09-25T19:30:00+08:00",
+    "price": 350,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
+  },
+  {
+    "movie_id": "tmdb-1291595",
+    "title": "INSIDIOUS: OUT OF THE FURTHER",
     "cinema_id": "c-rob-antipolo",
     "screen_type": "2D",
     "start_time": "2026-09-25T19:30:00+08:00",
@@ -130947,6 +131019,15 @@
     "screen_type": "2D",
     "start_time": "2026-09-25T20:00:00+08:00",
     "price": 330,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
+  },
+  {
+    "movie_id": "tmdb-1541560",
+    "title": "STOP! THAT! TRAIN!",
+    "cinema_id": "c-rob-manila",
+    "screen_type": "2D",
+    "start_time": "2026-09-25T20:00:00+08:00",
+    "price": 300,
     "booking_direct_url": "https://www.robinsonsmovieworld.com/"
   },
   {
@@ -133002,6 +133083,15 @@
     "booking_direct_url": "https://www.vistacinemas.com.ph/"
   },
   {
+    "movie_id": "tmdb-1771989",
+    "title": "MITTI DE PUTT",
+    "cinema_id": "c-vista-evia",
+    "screen_type": "2D",
+    "start_time": "2026-09-26T04:00:00+08:00",
+    "price": 555,
+    "booking_direct_url": "https://www.vistacinemas.com.ph/"
+  },
+  {
     "movie_id": "tmdb-1778435",
     "title": "AVENGERS ENDGAME: ENCORE",
     "cinema_id": "c-vista-naga",
@@ -133254,12 +133344,30 @@
     "booking_direct_url": "https://www.vistacinemas.com.ph/"
   },
   {
+    "movie_id": "tmdb-1771989",
+    "title": "MITTI DE PUTT",
+    "cinema_id": "c-vista-malolos",
+    "screen_type": "Director's Club",
+    "start_time": "2026-09-26T07:40:00+08:00",
+    "price": 565,
+    "booking_direct_url": "https://www.vistacinemas.com.ph/"
+  },
+  {
     "movie_id": "tmdb-1778435",
     "title": "AVENGERS ENDGAME: ENCORE",
     "cinema_id": "c-vista-gen-trias",
     "screen_type": "2D",
     "start_time": "2026-09-26T08:00:00+08:00",
     "price": 405,
+    "booking_direct_url": "https://www.vistacinemas.com.ph/"
+  },
+  {
+    "movie_id": "tmdb-1771989",
+    "title": "MITTI DE PUTT",
+    "cinema_id": "c-vista-naga",
+    "screen_type": "2D",
+    "start_time": "2026-09-26T08:00:00+08:00",
+    "price": 505,
     "booking_direct_url": "https://www.vistacinemas.com.ph/"
   },
   {
@@ -133281,12 +133389,30 @@
     "booking_direct_url": "https://www.vistacinemas.com.ph/"
   },
   {
+    "movie_id": "tmdb-1771989",
+    "title": "MITTI DE PUTT",
+    "cinema_id": "c-vista-gen-trias",
+    "screen_type": "2D",
+    "start_time": "2026-09-26T08:40:00+08:00",
+    "price": 555,
+    "booking_direct_url": "https://www.vistacinemas.com.ph/"
+  },
+  {
     "movie_id": "tmdb-1465063",
     "title": "FORGOTTEN ISLAND",
     "cinema_id": "c-vista-evia",
     "screen_type": "Director's Club",
     "start_time": "2026-09-26T08:50:00+08:00",
     "price": 905,
+    "booking_direct_url": "https://www.vistacinemas.com.ph/"
+  },
+  {
+    "movie_id": "tmdb-1771989",
+    "title": "MITTI DE PUTT",
+    "cinema_id": "c-vista-evia",
+    "screen_type": "2D",
+    "start_time": "2026-09-26T09:00:00+08:00",
+    "price": 555,
     "booking_direct_url": "https://www.vistacinemas.com.ph/"
   },
   {
@@ -136032,6 +136158,15 @@
     "screen_type": "2D",
     "start_time": "2026-09-26T12:35:00+08:00",
     "price": 305,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
+  },
+  {
+    "movie_id": "tmdb-1760447",
+    "title": "PLUMP BLOSSOM",
+    "cinema_id": "c-rob-naga",
+    "screen_type": "2D",
+    "start_time": "2026-09-26T12:35:00+08:00",
+    "price": 230,
     "booking_direct_url": "https://www.robinsonsmovieworld.com/"
   },
   {
@@ -143289,6 +143424,15 @@
     "booking_direct_url": "https://www.robinsonsmovieworld.com/"
   },
   {
+    "movie_id": "tmdb-1760447",
+    "title": "PLUMP BLOSSOM",
+    "cinema_id": "c-rob-naga",
+    "screen_type": "2D",
+    "start_time": "2026-09-26T18:05:00+08:00",
+    "price": 230,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
+  },
+  {
     "movie_id": "tmdb-1465063",
     "title": "Forgotten Island",
     "cinema_id": "c-ayala-feliz",
@@ -144963,6 +145107,15 @@
     "booking_direct_url": "https://www.ayalaallaccess.com/sites/Greenbelt/1003"
   },
   {
+    "movie_id": "tmdb-1541560",
+    "title": "STOP! THAT! TRAIN!",
+    "cinema_id": "c-rob-galleria-cebu",
+    "screen_type": "2D",
+    "start_time": "2026-09-26T19:05:00+08:00",
+    "price": 300,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
+  },
+  {
     "movie_id": "tmdb-1423191",
     "title": "RESIDENT EVIL",
     "cinema_id": "c-rob-palawan",
@@ -145050,6 +145203,15 @@
     "screen_type": "2D",
     "start_time": "2026-09-26T19:15:00+08:00",
     "price": 360,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
+  },
+  {
+    "movie_id": "tmdb-1541560",
+    "title": "STOP! THAT! TRAIN!",
+    "cinema_id": "c-rob-pavia",
+    "screen_type": "2D",
+    "start_time": "2026-09-26T19:15:00+08:00",
+    "price": 300,
     "booking_direct_url": "https://www.robinsonsmovieworld.com/"
   },
   {
@@ -146283,6 +146445,15 @@
     "screen_type": "2D",
     "start_time": "2026-09-26T20:00:00+08:00",
     "price": 330,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
+  },
+  {
+    "movie_id": "tmdb-1541560",
+    "title": "STOP! THAT! TRAIN!",
+    "cinema_id": "c-rob-manila",
+    "screen_type": "2D",
+    "start_time": "2026-09-26T20:00:00+08:00",
+    "price": 300,
     "booking_direct_url": "https://www.robinsonsmovieworld.com/"
   },
   {
@@ -147993,6 +148164,15 @@
     "screen_type": "2D",
     "start_time": "2026-09-27T07:30:00+08:00",
     "price": 350,
+    "booking_direct_url": "https://www.vistacinemas.com.ph/"
+  },
+  {
+    "movie_id": "tmdb-1771989",
+    "title": "MITTI DE PUTT",
+    "cinema_id": "c-vista-evia",
+    "screen_type": "2D",
+    "start_time": "2026-09-27T08:30:00+08:00",
+    "price": 555,
     "booking_direct_url": "https://www.vistacinemas.com.ph/"
   },
   {
@@ -150558,6 +150738,15 @@
     "screen_type": "2D",
     "start_time": "2026-09-27T12:35:00+08:00",
     "price": 305,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
+  },
+  {
+    "movie_id": "tmdb-1760447",
+    "title": "PLUMP BLOSSOM",
+    "cinema_id": "c-rob-naga",
+    "screen_type": "2D",
+    "start_time": "2026-09-27T12:35:00+08:00",
+    "price": 230,
     "booking_direct_url": "https://www.robinsonsmovieworld.com/"
   },
   {
@@ -157752,6 +157941,15 @@
     "booking_direct_url": "https://www.robinsonsmovieworld.com/"
   },
   {
+    "movie_id": "tmdb-1760447",
+    "title": "PLUMP BLOSSOM",
+    "cinema_id": "c-rob-naga",
+    "screen_type": "2D",
+    "start_time": "2026-09-27T18:05:00+08:00",
+    "price": 230,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
+  },
+  {
     "movie_id": "tmdb-1465063",
     "title": "Forgotten Island",
     "cinema_id": "c-ayala-feliz",
@@ -162333,6 +162531,15 @@
     "booking_direct_url": "https://www.vistacinemas.com.ph/"
   },
   {
+    "movie_id": "tmdb-1771989",
+    "title": "MITTI DE PUTT",
+    "cinema_id": "c-vista-evia",
+    "screen_type": "2D",
+    "start_time": "2026-09-28T08:00:00+08:00",
+    "price": 555,
+    "booking_direct_url": "https://www.vistacinemas.com.ph/"
+  },
+  {
     "movie_id": "tmdb-1423191",
     "title": "RESIDENT EVIL",
     "cinema_id": "c-vista-evia",
@@ -164580,6 +164787,15 @@
     "screen_type": "2D",
     "start_time": "2026-09-28T12:35:00+08:00",
     "price": 305,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
+  },
+  {
+    "movie_id": "tmdb-1760447",
+    "title": "PLUMP BLOSSOM",
+    "cinema_id": "c-rob-naga",
+    "screen_type": "2D",
+    "start_time": "2026-09-28T12:35:00+08:00",
+    "price": 230,
     "booking_direct_url": "https://www.robinsonsmovieworld.com/"
   },
   {
@@ -170388,6 +170604,15 @@
     "booking_direct_url": "https://www.robinsonsmovieworld.com/"
   },
   {
+    "movie_id": "tmdb-1760447",
+    "title": "PLUMP BLOSSOM",
+    "cinema_id": "c-rob-naga",
+    "screen_type": "2D",
+    "start_time": "2026-09-28T18:05:00+08:00",
+    "price": 230,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
+  },
+  {
     "movie_id": "tmdb-1291595",
     "title": "Insidious: Out Of The Further",
     "cinema_id": "c-ayala-glorietta",
@@ -175641,6 +175866,15 @@
     "screen_type": "2D",
     "start_time": "2026-09-29T12:35:00+08:00",
     "price": 305,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
+  },
+  {
+    "movie_id": "tmdb-1760447",
+    "title": "PLUMP BLOSSOM",
+    "cinema_id": "c-rob-naga",
+    "screen_type": "2D",
+    "start_time": "2026-09-29T12:35:00+08:00",
+    "price": 230,
     "booking_direct_url": "https://www.robinsonsmovieworld.com/"
   },
   {
@@ -181071,15 +181305,6 @@
     "booking_direct_url": "https://www.robinsonsmovieworld.com/"
   },
   {
-    "movie_id": "tmdb-1263337",
-    "title": "HEART OF THE BEAST",
-    "cinema_id": "c-rob-metro-east",
-    "screen_type": "2D",
-    "start_time": "2026-09-29T17:40:00+08:00",
-    "price": 300,
-    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
-  },
-  {
     "movie_id": "tmdb-1465063",
     "title": "Forgotten Island",
     "cinema_id": "c-sm-2011",
@@ -181509,6 +181734,15 @@
     "screen_type": "2D",
     "start_time": "2026-09-29T18:05:00+08:00",
     "price": 322,
+    "booking_direct_url": "https://www.robinsonsmovieworld.com/"
+  },
+  {
+    "movie_id": "tmdb-1760447",
+    "title": "PLUMP BLOSSOM",
+    "cinema_id": "c-rob-naga",
+    "screen_type": "2D",
+    "start_time": "2026-09-29T18:05:00+08:00",
+    "price": 230,
     "booking_direct_url": "https://www.robinsonsmovieworld.com/"
   },
   {
