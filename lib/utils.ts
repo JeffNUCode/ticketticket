@@ -1,5 +1,7 @@
 import { clsx, type ClassValue } from "clsx";
 import { twMerge } from "tailwind-merge";
+import { cityInFilter } from "./cities";
+import type { CitySlug, LocationFilterId } from "@/types/database";
 
 export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
@@ -27,17 +29,17 @@ export function phNoon(dateKey: string) {
 
 export const DATE_HORIZON = 30;
 
-/** Dates this city actually has times for, from today, capped at DATE_HORIZON. Empty days are not invented. */
+/** Dates this region actually has times for, from today, capped at DATE_HORIZON. Empty days are not invented. */
 export function horizonDates(
   showtimes: { cinema: { city: string }; start_time: string }[],
-  city: string,
+  city: LocationFilterId,
   today: string,
   selected?: string,
 ) {
   const keys = [
     ...new Set(
       showtimes
-        .filter((s) => s.cinema.city === city)
+        .filter((s) => cityInFilter(city, s.cinema.city as CitySlug))
         .map((s) => localDateKey(new Date(s.start_time)))
         .filter((d) => d >= today),
     ),
@@ -87,4 +89,12 @@ export function haversineKm(
       Math.cos((b.lat * Math.PI) / 180) *
       Math.sin(dLng / 2) ** 2;
   return 2 * R * Math.asin(Math.sqrt(s));
+}
+
+/** Google Maps search — coords when known, else a place name / address query. */
+export function mapsSearchUrl(query: string, lat?: number, lng?: number) {
+  if (lat && lng) {
+    return `https://www.google.com/maps/search/?api=1&query=${lat},${lng}`;
+  }
+  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
 }

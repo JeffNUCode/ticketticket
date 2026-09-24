@@ -11,7 +11,6 @@ export async function GET(req: Request) {
     city: parseCity(searchParams.get("city") ?? undefined),
     date: searchParams.get("date") ?? isoDate(),
     chain: (searchParams.get("chain") ?? "all") as CinemaChain | "all",
-    genre: searchParams.get("genre") ?? "all",
     format: (searchParams.get("format") ?? "all") as ScreenType | "all",
   });
   return NextResponse.json(data);

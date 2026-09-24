@@ -22,7 +22,7 @@ export class AyalaMallsScraper extends BaseScraper {
             screenType: (n.attr("format") ?? "2D") as "2D" | "3D" | "IMAX" | "Director's Club",
             startTime: n.attr("start") ?? "",
             price: n.attr("price") ? Number(n.attr("price")) : null,
-            bookingUrl: n.attr("href") ?? "https://www.sureseats.com/",
+            bookingUrl: n.attr("href") ?? "https://www.ayalaallaccess.com/",
           };
         })
         .filter((s) => s.movieTitle && s.startTime);

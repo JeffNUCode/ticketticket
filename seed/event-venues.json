@@ -1,0 +1,281 @@
+[
+  {
+    "id": "v-moa-arena",
+    "name": "SM Mall of Asia Arena",
+    "aliases": ["MOA Arena", "Mall of Asia Arena", "SM MOA Arena", "SM Mall of Asia Arena"],
+    "city": "metro-manila",
+    "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+    "lat": 14.5352,
+    "lng": 120.9822,
+    "chain_or_organizer": "SM"
+  },
+  {
+    "id": "v-araneta",
+    "name": "Smart Araneta Coliseum",
+    "aliases": ["Araneta Coliseum", "Araneta", "The Big Dome", "Smart Araneta"],
+    "city": "metro-manila",
+    "address": "Araneta City, Cubao, Quezon City",
+    "lat": 14.6206,
+    "lng": 121.0534,
+    "chain_or_organizer": "Araneta"
+  },
+  {
+    "id": "v-newport-pat",
+    "name": "Newport Performing Arts Theater",
+    "aliases": ["NPAT", "Newport Performing Arts Theatre", "Newport Theater"],
+    "city": "metro-manila",
+    "address": "Newport World Resorts, Pasay",
+    "lat": 14.5195,
+    "lng": 121.0198,
+    "chain_or_organizer": "Newport"
+  },
+  {
+    "id": "v-peta",
+    "name": "PETA Theater Center",
+    "aliases": ["PETA", "PETA Theatre", "Philippine Educational Theater Association"],
+    "city": "metro-manila",
+    "address": "No. 5 Eymard Drive, New Manila, Quezon City",
+    "lat": 14.6225,
+    "lng": 121.0348,
+    "chain_or_organizer": "PETA"
+  },
+  {
+    "id": "v-circuit-makati",
+    "name": "Circuit Makati",
+    "aliases": ["Ayala Malls Circuit", "Circuit Theater", "Samsung Hall Circuit"],
+    "city": "metro-manila",
+    "address": "Circuit Makati, Makati",
+    "lat": 14.5628,
+    "lng": 121.0145,
+    "chain_or_organizer": "Ayala"
+  },
+  {
+    "id": "v-samsung-hall",
+    "name": "Samsung Hall",
+    "aliases": ["Samsung Hall SM Aura", "SM Aura Samsung Hall"],
+    "city": "metro-manila",
+    "address": "SM Aura Premier, Taguig",
+    "lat": 14.5515,
+    "lng": 121.0544,
+    "chain_or_organizer": "SM"
+  },
+  {
+    "id": "v-solaire",
+    "name": "The Theatre at Solaire",
+    "aliases": ["Solaire Theatre", "Solaire Theater", "Theatre at Solaire"],
+    "city": "metro-manila",
+    "address": "Solaire Resort, Parañaque",
+    "lat": 14.5235,
+    "lng": 120.9805,
+    "chain_or_organizer": "Solaire"
+  },
+  {
+    "id": "v-ccp-main",
+    "name": "CCP Main Theater",
+    "aliases": ["CCP", "Cultural Center of the Philippines", "Tanghalang Nicanor Abelardo", "Various CCP Venues"],
+    "city": "metro-manila",
+    "address": "Roxas Blvd, Pasay",
+    "lat": 14.5545,
+    "lng": 120.9858,
+    "chain_or_organizer": "CCP"
+  },
+  {
+    "id": "v-music-museum",
+    "name": "Music Museum",
+    "aliases": ["The Music Museum"],
+    "city": "metro-manila",
+    "address": "68 Greenhills Shopping Center, San Juan",
+    "lat": 14.6018,
+    "lng": 121.0485
+  },
+  {
+    "id": "v-kia-theatre",
+    "name": "Kia Theatre",
+    "aliases": ["KIA Theatre", "Metropolitan Theater", "Manila Metropolitan Theater"],
+    "city": "metro-manila",
+    "address": "Padre Burgos Ave, Ermita, Manila",
+    "lat": 14.5915,
+    "lng": 120.9805
+  },
+  {
+    "id": "v-philsports",
+    "name": "PhilSports Arena",
+    "aliases": ["ULTRA", "PhilSports", "PSC"],
+    "city": "metro-manila",
+    "address": "Pasig",
+    "lat": 14.5785,
+    "lng": 121.0655
+  },
+  {
+    "id": "v-world-trade",
+    "name": "World Trade Center Metro Manila",
+    "aliases": ["WTC", "World Trade Center", "World Trade Center Metro Manila", "WTCMM"],
+    "city": "metro-manila",
+    "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
+    "lat": 14.554,
+    "lng": 120.988,
+    "chain_or_organizer": "WTC"
+  },
+  {
+    "id": "v-smx",
+    "name": "SMX Convention Center Manila",
+    "aliases": ["SMX", "SMX Manila", "SMX MOA", "SMX Convention Center"],
+    "city": "metro-manila",
+    "address": "Seashell Lane, Mall of Asia Complex, Pasay",
+    "lat": 14.5365,
+    "lng": 120.9835,
+    "chain_or_organizer": "SM"
+  },
+  {
+    "id": "v-smx-aura",
+    "name": "SMX Aura",
+    "aliases": ["SMX Aura", "Megatrade Hall"],
+    "city": "metro-manila",
+    "address": "SM Aura Premier, Taguig",
+    "lat": 14.5515,
+    "lng": 121.0544,
+    "chain_or_organizer": "SM"
+  },
+  {
+    "id": "v-smx-clark",
+    "name": "SMX Clark",
+    "aliases": ["SMX Clark"],
+    "city": "north-luzon",
+    "address": "SM City Clark, Angeles / Mabalacat",
+    "lat": 15.169,
+    "lng": 120.58,
+    "chain_or_organizer": "SM"
+  },
+  {
+    "id": "v-smx-cebu",
+    "name": "SMX Seaside Cebu",
+    "aliases": ["SMX Cebu", "SMX Seaside Cebu", "Sky Hall Seaside Cebu"],
+    "city": "cebu",
+    "address": "SM Seaside City Cebu",
+    "lat": 10.2795,
+    "lng": 123.8845,
+    "chain_or_organizer": "SM"
+  },
+  {
+    "id": "v-smx-davao",
+    "name": "SMX Davao",
+    "aliases": ["SMX Davao"],
+    "city": "davao",
+    "address": "SM Lanang Premier, Davao",
+    "lat": 7.0985,
+    "lng": 125.6315,
+    "chain_or_organizer": "SM"
+  },
+  {
+    "id": "v-smx-bacolod",
+    "name": "SMX Bacolod",
+    "aliases": ["SMX Bacolod"],
+    "city": "bacolod",
+    "address": "SM City Bacolod",
+    "lat": 10.6715,
+    "lng": 122.9485,
+    "chain_or_organizer": "SM"
+  },
+  {
+    "id": "v-smx-olongapo",
+    "name": "SMX Olongapo",
+    "aliases": ["SMX Olongapo", "SM City Olongapo Central"],
+    "city": "olongapo",
+    "address": "SM City Olongapo Central",
+    "lat": 14.8385,
+    "lng": 120.2845,
+    "chain_or_organizer": "SM"
+  },
+  {
+    "id": "v-ccp-blackbox",
+    "name": "Tanghalang Ignacio Gimenez (CCP Black Box)",
+    "aliases": [
+      "CCP Black Box Theater",
+      "Tanghalang Ignacio Gimenez",
+      "CCP Tanghalang Ignacio Gimenez (Black Box Theater)"
+    ],
+    "city": "metro-manila",
+    "address": "CCP Complex, Pasay",
+    "lat": 14.5545,
+    "lng": 120.9858,
+    "chain_or_organizer": "CCP"
+  },
+  {
+    "id": "v-samsung-pat",
+    "name": "Samsung Performing Arts Theater",
+    "aliases": [
+      "CCP @ the Samsung Performing Arts Theater",
+      "CCP @ Samsung Performing Arts Theater",
+      "Samsung Performing Arts Theater",
+      "Circuit Performing Arts Theater"
+    ],
+    "city": "metro-manila",
+    "address": "Circuit Makati, Makati",
+    "lat": 14.5628,
+    "lng": 121.0145,
+    "chain_or_organizer": "CCP"
+  },
+  {
+    "id": "v-quezon-city-sports",
+    "name": "Quezon City Sports Club",
+    "aliases": ["QC Sports Club"],
+    "city": "metro-manila",
+    "address": "Quezon City",
+    "lat": 14.645,
+    "lng": 121.045
+  },
+  {
+    "id": "v-rizal-memorial",
+    "name": "Rizal Memorial Coliseum",
+    "aliases": ["Rizal Memorial", "RMC"],
+    "city": "metro-manila",
+    "address": "Pablo Ocampo Sr. St, Malate, Manila",
+    "lat": 14.5635,
+    "lng": 120.9925
+  },
+  {
+    "id": "v-manila-centroid",
+    "name": "Metro Manila",
+    "aliases": ["Manila", "Metro Manila", "NCR"],
+    "city": "metro-manila",
+    "address": "Metro Manila",
+    "lat": 14.5995,
+    "lng": 120.9842
+  },
+  {
+    "id": "v-cebu-centroid",
+    "name": "Cebu",
+    "aliases": ["Cebu City", "Cebu", "Metro Cebu"],
+    "city": "cebu",
+    "address": "Cebu",
+    "lat": 10.3157,
+    "lng": 123.8854
+  },
+  {
+    "id": "v-davao-centroid",
+    "name": "Davao",
+    "aliases": ["Davao City", "Davao"],
+    "city": "davao",
+    "address": "Davao",
+    "lat": 7.1907,
+    "lng": 125.4553
+  },
+  {
+    "id": "v-iloilo-centroid",
+    "name": "Iloilo",
+    "aliases": ["Iloilo City", "Iloilo"],
+    "city": "iloilo",
+    "address": "Iloilo",
+    "lat": 10.7202,
+    "lng": 122.5621
+  },
+  {
+    "id": "v-bacolod-centroid",
+    "name": "Bacolod",
+    "aliases": ["Bacolod City", "Bacolod"],
+    "city": "bacolod",
+    "address": "Bacolod",
+    "lat": 10.6765,
+    "lng": 122.9508
+  }
+]

@@ -1,17 +1,30 @@
-import Image from "next/image";
+import { cookies } from "next/headers";
 import { notFound } from "next/navigation";
-import { NotifyButton } from "@/components/notify-button";
+import { Suspense } from "react";
+import Image from "next/image";
+import { LocationSelector } from "@/components/location-selector";
+import { MovieShowtimes } from "@/components/movie-showtimes";
+import { SaveButton } from "@/components/notify-button";
 import { Trailer } from "@/components/trailer";
-import { SourceBanner } from "@/components/source-banner";
+import { CITY_COOKIE, parseCity } from "@/lib/cities";
 import { getMovieBySlug, OFFICIAL_BOOKERS } from "@/lib/data";
-import { formatClock, formatDay, peso } from "@/lib/utils";
 
 export const revalidate = 300;
 
-export default async function MoviePage({ params }: { params: { slug: string } }) {
-  const data = await getMovieBySlug(params.slug);
+export default async function MoviePage({
+  params,
+  searchParams,
+}: {
+  params: { slug: string };
+  searchParams: Record<string, string | string[] | undefined>;
+}) {
+  const city = parseCity(
+    typeof searchParams.city === "string" ? searchParams.city : undefined,
+    cookies().get(CITY_COOKIE)?.value ?? "all",
+  );
+  const data = await getMovieBySlug(params.slug, city);
   if (!data) notFound();
-  const { movie, showtimes, reviews, source } = data;
+  const { movie, showtimes, cities, reviews } = data;
   const avg =
     reviews.length === 0 ? null : reviews.reduce((s, r) => s + r.rating, 0) / reviews.length;
 
@@ -23,24 +36,41 @@ export default async function MoviePage({ params }: { params: { slug: string } }
           alt=""
           width={1600}
           height={900}
-          className="h-48 w-full object-cover sm:h-64"
+          className="h-40 w-full object-cover sm:h-56"
           priority
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-neutral-950 via-neutral-950/55 to-transparent" />
-        <div className="absolute bottom-0 p-4 sm:p-5">
-          <p className="text-xs font-semibold uppercase tracking-widest text-white/60">{movie.rating}</p>
-          <h1 className="mt-1 font-display text-3xl font-extrabold leading-tight text-white sm:text-4xl">
-            {movie.title}
-          </h1>
-          {movie.original_title && movie.original_title !== movie.title && (
-            <p className="mt-1 text-sm text-white/55">{movie.original_title}</p>
+        <div className="absolute inset-0 bg-gradient-to-t from-neutral-950 via-neutral-950/60 to-transparent" />
+        <div className="absolute inset-x-0 bottom-0 flex items-end gap-3 p-4 sm:gap-4 sm:p-5">
+          {movie.poster_url && (
+            <Image
+              src={movie.poster_url}
+              alt=""
+              width={500}
+              height={750}
+              className="hidden w-24 shrink-0 rounded-xl border-2 border-ink object-cover shadow-pop-sm sm:block sm:w-28"
+            />
           )}
+          <div className="min-w-0">
+            <p className="text-xs font-semibold uppercase tracking-widest text-white/60">
+              {movie.rating}
+            </p>
+            <h1 className="mt-1 font-display text-3xl font-extrabold leading-tight text-white sm:text-4xl">
+              {movie.title}
+            </h1>
+            {movie.original_title && movie.original_title !== movie.title && (
+              <p className="mt-1 text-sm text-white/55">{movie.original_title}</p>
+            )}
+          </div>
         </div>
       </div>
 
-      <div className="flex flex-wrap gap-2 text-sm text-white/60">
-        <span>{movie.duration_mins} min</span>
-        <span aria-hidden>·</span>
+      <div className="flex flex-wrap items-center gap-2 text-sm text-white/60">
+        {movie.duration_mins != null && movie.duration_mins > 0 && (
+          <>
+            <span className="font-semibold text-white/80">{movie.duration_mins} minutes run</span>
+            <span aria-hidden>·</span>
+          </>
+        )}
         <span>{movie.release_date}</span>
         {movie.genres.map((g) => (
           <span key={g} className="rounded-full border border-white/15 px-2 py-0.5 text-xs">
@@ -50,9 +80,21 @@ export default async function MoviePage({ params }: { params: { slug: string } }
         {avg != null && <span className="font-semibold text-zap">{avg.toFixed(1)} / 5</span>}
       </div>
 
-      <SourceBanner source={source} />
+      <MovieShowtimes city={city} showtimes={showtimes} bookers={OFFICIAL_BOOKERS} />
 
-      <NotifyButton movieId={movie.id} title={movie.title} />
+      <div className="flex flex-wrap items-center gap-2">
+        <SaveButton
+          movieId={movie.id}
+          title={movie.title}
+          slug={movie.slug}
+          poster={movie.poster_url}
+        />
+        {cities.length > 0 && (
+          <Suspense>
+            <LocationSelector city={city} cities={cities} compact />
+          </Suspense>
+        )}
+      </div>
 
       <p className="text-base leading-relaxed text-white/80">{movie.synopsis}</p>
 
@@ -65,50 +107,9 @@ export default async function MoviePage({ params }: { params: { slug: string } }
 
       {movie.trailer_youtube_id && <Trailer youtubeId={movie.trailer_youtube_id} />}
 
-      <section>
-        <h2 className="section-title mb-3">Nearby showtimes</h2>
-        {showtimes.length === 0 ? (
-          <ul className="grid gap-2 sm:grid-cols-3">
-            {OFFICIAL_BOOKERS.map((b) => (
-              <li key={b.chain}>
-                <a
-                  href={b.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="panel flex min-h-11 items-center justify-between px-4 py-3 text-sm font-semibold hover:border-zap"
-                >
-                  {b.chain}
-                  <span className="text-zap">Book</span>
-                </a>
-              </li>
-            ))}
-          </ul>
-        ) : (
-          <ul className="panel divide-y divide-white/10">
-            {showtimes.map((s) => (
-              <li key={s.id} className="flex flex-wrap items-baseline justify-between gap-2 px-4 py-3">
-                <div>
-                  <p className="font-semibold text-white">{s.cinema.mall}</p>
-                  <p className="text-xs text-white/45">{s.cinema.chain}</p>
-                </div>
-                <p className="tabular-nums text-sm text-white/80">
-                  {formatDay(s.start_time)} {formatClock(s.start_time)}
-                </p>
-                <p className="text-xs font-semibold uppercase tracking-wide text-white/50">
-                  {s.screen_type}
-                </p>
-                <p className="font-semibold text-white">{peso(s.price)}</p>
-              </li>
-            ))}
-          </ul>
-        )}
-      </section>
-
-      <section>
-        <h2 className="section-title mb-3">Reviews</h2>
-        {reviews.length === 0 ? (
-          <p className="text-sm text-white/50">No reviews yet.</p>
-        ) : (
+      {reviews.length > 0 && (
+        <section>
+          <h2 className="section-title mb-3">Reviews</h2>
           <ul className="space-y-2">
             {reviews.map((r) => (
               <li key={r.id} className="panel p-4">
@@ -117,8 +118,8 @@ export default async function MoviePage({ params }: { params: { slug: string } }
               </li>
             ))}
           </ul>
-        )}
-      </section>
+        </section>
+      )}
     </article>
   );
 }

@@ -1,20 +1,22 @@
+import { cityInFilter, citiesInFilter } from "./cities";
 import { SEED } from "./seed";
 import { createServerSupabase } from "./supabase/server";
 import { horizonDates, localDateKey } from "./utils";
+import { nextPerMovie, nowShowing, upcoming } from "./group";
 import type { ShowtimeView } from "./group";
-import { applyLocalTitles, loadInventoryFile, missingMovieIds, OFFICIAL_BOOKERS } from "./inventory";
+import { applyLocalTitles, loadInventoryFile, missingMovieIds } from "./inventory";
+import { OFFICIAL_BOOKERS } from "./bookers";
 import { getNowPlayingPh, getTmdbMovie, parseTmdbId, tmdbConfigured } from "./tmdb";
-import type { CinemaRow, CitySlug, CinemaChain, MovieRow, ScreenType, ShowtimeRow } from "@/types/database";
+import type { CinemaRow, CitySlug, CinemaChain, LocationFilterId, MovieRow, ScreenType, ShowtimeRow } from "@/types/database";
 
 export type { ShowtimeView } from "./group";
 export { groupByMall } from "./group";
 export { OFFICIAL_BOOKERS };
 
 export type Filters = {
-  city: CitySlug;
+  city: LocationFilterId;
   date: string;
   chain: CinemaChain | "all";
-  genre: string | "all";
   format: ScreenType | "all";
 };
 
@@ -28,14 +30,15 @@ export function isoDate(d = new Date()) {
 }
 
 function applyFilters(showtimes: ShowtimeView[], f: Filters) {
-  return showtimes.filter((s) => {
-    if (s.cinema.city !== f.city) return false;
-    if (localDateKey(new Date(s.start_time)) !== f.date) return false;
-    if (f.chain !== "all" && s.cinema.chain !== f.chain) return false;
-    if (f.format !== "all" && s.screen_type !== f.format) return false;
-    if (f.genre !== "all" && !s.movie.genres.includes(f.genre)) return false;
-    return true;
-  });
+  return upcoming(
+    showtimes.filter((s) => {
+      if (!cityInFilter(f.city, s.cinema.city)) return false;
+      if (localDateKey(new Date(s.start_time)) !== f.date) return false;
+      if (f.chain !== "all" && s.cinema.chain !== f.chain) return false;
+      if (f.format !== "all" && s.screen_type !== f.format) return false;
+      return true;
+    }),
+  );
 }
 
 function attach(
@@ -117,21 +120,49 @@ export async function getCatalog() {
 }
 
 export async function getFilteredShowtimes(f: Filters) {
-  const { showtimes, promos, cinemas, movies, source } = await getCatalog();
-  const movieList =
-    f.genre === "all" ? movies : movies.filter((m) => m.genres.includes(f.genre));
+  const { showtimes, cinemas, movies, source } = await getCatalog();
+  const today = isoDate();
+  const live = showtimes.filter((s) => localDateKey(new Date(s.start_time)) >= today);
+  const region = citiesInFilter(f.city);
+  const inCity = live.filter((s) => region.includes(s.cinema.city));
   return {
     showtimes: applyFilters(showtimes, f),
-    dates: horizonDates(showtimes, f.city, isoDate(), f.date),
-    promos,
-    cinemas: cinemas.filter((c) => c.city === f.city),
-    movies: movieList,
+    dates: horizonDates(showtimes, f.city, today, f.date),
+    cinemas: cinemas.filter((c) => region.includes(c.city)),
+    movies,
     source,
+    // Only offer controls that lead somewhere: cities and chains we actually have times for.
+    cities: [...new Set(live.map((s) => s.cinema.city))],
+    chains: [...new Set(inCity.map((s) => s.cinema.chain))],
+    formats: [...new Set(inCity.map((s) => s.screen_type))],
   };
 }
 
-export async function getMovieBySlug(slug: string) {
-  const { movies, showtimes, reviews, cinemas, source } = await getCatalog();
+/** First-visit gate: the areas worth offering, plus a few posters so the ask isn't a blank screen. */
+export async function getGate(): Promise<{ cities: CitySlug[]; films: MovieRow[] }> {
+  const { showtimes } = await getCatalog();
+  const today = isoDate();
+  const live = showtimes.filter((s) => localDateKey(new Date(s.start_time)) >= today);
+  return {
+    cities: [...new Set(live.map((s) => s.cinema.city))],
+    films: nowShowing(live)
+      .filter((m) => m.poster_url)
+      .slice(0, 10),
+  };
+}
+
+/**
+ * Next upcoming screening per film in one city — one row per film, not per showtime, so the
+ * saved list can answer "when can I see this?" without shipping the whole city's inventory.
+ */
+export async function getNextScreenings(city: LocationFilterId) {
+  const { showtimes } = await getCatalog();
+  const region = citiesInFilter(city);
+  return nextPerMovie(showtimes.filter((s) => region.includes(s.cinema.city)));
+}
+
+export async function getMovieBySlug(slug: string, city: LocationFilterId) {
+  const { movies, showtimes, reviews, source } = await getCatalog();
   let movie = movies.find((m) => m.slug === slug);
   if (!movie) return null;
   const tmdbId = parseTmdbId(movie.id);
@@ -139,15 +170,13 @@ export async function getMovieBySlug(slug: string) {
     const detail = await getTmdbMovie(tmdbId).catch(() => null);
     if (detail) movie = { ...movie, ...detail, slug: movie.slug };
   }
+  const playing = upcoming(showtimes.filter((s) => s.movie_id === movie!.id));
+  const region = citiesInFilter(city);
   return {
     movie,
-    showtimes: showtimes.filter((s) => s.movie_id === movie.id),
-    reviews: reviews.filter((r) => r.movie_id === movie.id),
-    cinemas,
+    showtimes: playing.filter((s) => region.includes(s.cinema.city)),
+    cities: [...new Set(playing.map((s) => s.cinema.city))],
+    reviews: reviews.filter((r) => r.movie_id === movie!.id),
     source,
   };
-}
-
-export function genresFrom(movies: MovieRow[]) {
-  return [...new Set(movies.flatMap((m) => m.genres))].sort();
 }

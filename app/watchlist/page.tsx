@@ -1,51 +1,29 @@
-"use client";
+import { cookies } from "next/headers";
+import { SavedList } from "@/components/saved-list";
+import { CITY_COOKIE, cityLabel, parseCity } from "@/lib/cities";
+import { getNextScreenings } from "@/lib/data";
 
-import Link from "next/link";
-import { useWatchlist } from "@/lib/watchlist";
-import { SEED } from "@/lib/seed";
+export const revalidate = 300;
 
-export default function WatchlistPage() {
-  const { alerts, toggle } = useWatchlist();
+export default async function SavedPage({
+  searchParams,
+}: {
+  searchParams: Record<string, string | string[] | undefined>;
+}) {
+  const city = parseCity(
+    typeof searchParams.city === "string" ? searchParams.city : undefined,
+    cookies().get(CITY_COOKIE)?.value,
+  );
+
   return (
     <div className="space-y-5">
-      <h1 className="page-title">Seat-drop alerts</h1>
-      <p className="text-sm text-white/55">
-        Saved on this device. Alerts do not send email yet.
-      </p>
-      {alerts.length === 0 ? (
-        <p className="panel p-5 text-sm text-white/70">
-          No alerts yet. Open a movie and tap notify.
+      <div>
+        <h1 className="page-title">Saved</h1>
+        <p className="mt-1 text-sm text-white/70">
+          Movies and events on this phone. Next screenings for {cityLabel(city)}.
         </p>
-      ) : (
-        <ul className="space-y-2">
-          {alerts.map((a) => {
-            const movie = SEED.movies.find((m) => m.id === a.movieId);
-            return (
-              <li
-                key={`${a.movieId}-${a.screenType}`}
-                className="panel flex items-center justify-between gap-3 p-4"
-              >
-                <div>
-                  <Link
-                    href={movie ? `/movie/${movie.slug}` : "/"}
-                    className="font-semibold text-white hover:text-zap"
-                  >
-                    {movie?.title ?? a.movieId}
-                  </Link>
-                  <p className="text-xs text-white/45">{a.screenType}</p>
-                </div>
-                <button
-                  type="button"
-                  className="min-h-11 rounded-full px-3 text-sm text-white/50 hover:text-white"
-                  onClick={() => toggle(a.movieId, a.screenType)}
-                >
-                  Remove
-                </button>
-              </li>
-            );
-          })}
-        </ul>
-      )}
+      </div>
+      <SavedList city={city} next={await getNextScreenings(city)} />
     </div>
   );
 }

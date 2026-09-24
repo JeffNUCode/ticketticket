@@ -6,3 +6,5 @@ out
 *.log
 .DS_Store
 *.tsbuildinfo
+data/sm-sites.raw.json
+data/ayala-sites.raw.json

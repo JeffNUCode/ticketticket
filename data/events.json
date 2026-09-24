@@ -1,0 +1,4123 @@
+[
+  {
+    "id": "evt-eb-427741906557",
+    "category": "NIGHTLIFE_SOCIAL",
+    "title": "Dharma Disco & Breath-work For Liberation: Somatic journey 4 all parts",
+    "poster_url": "",
+    "venue": {
+      "id": "v-world-trade",
+      "name": "World Trade Center Metro Manila",
+      "chain_or_organizer": "WTC",
+      "city": "metro-manila",
+      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
+      "lat": 14.554,
+      "lng": 120.988
+    },
+    "tags": [
+      "eventbrite",
+      "nightlife_social"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/dharma-disco-breath-work-for-liberation-somatic-journey-4-all-parts-tickets-427741906557",
+    "updated_at": "2026-09-24T15:51:17.894Z",
+    "schedules": [
+      {
+        "start_time": "2022-09-30T09:30:00+08:00",
+        "end_time": "2027-04-11T22:00:00+08:00",
+        "ticket_status": "FEW_LEFT"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1982353682227",
+    "category": "NIGHTLIFE_SOCIAL",
+    "title": "Happy Hours at Sabor Y Vino Makati  Biggest Tavern in Makati",
+    "poster_url": "",
+    "venue": {
+      "id": "v-unknown-sabor-y-vino",
+      "name": "Sabor Y Vino",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "eventbrite",
+      "nightlife_social"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/happy-hours-at-sabor-y-vino-makati-biggest-tavern-in-makati-tickets-1982353682227",
+    "updated_at": "2026-09-24T15:51:23.249Z",
+    "schedules": [
+      {
+        "start_time": "2026-02-05T17:00:00+08:00",
+        "end_time": "2026-12-31T18:00:00+08:00",
+        "ticket_status": "FEW_LEFT"
+      }
+    ]
+  },
+  {
+    "id": "evt-wtc-fb6e1695759d",
+    "category": "EXPO_COMMUNITY",
+    "title": "Lalala Fest Manila",
+    "poster_url": "https://www.wtcmanila.com.ph/wp-content/uploads/2026/06/716762856_122102670321328526_3984399793111701759_n.jpg",
+    "venue": {
+      "id": "v-world-trade",
+      "name": "World Trade Center Metro Manila",
+      "chain_or_organizer": "WTC",
+      "city": "metro-manila",
+      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
+      "lat": 14.554,
+      "lng": 120.988
+    },
+    "tags": [
+      "wtc",
+      "expo"
+    ],
+    "booking_url": "https://www.wtcmanila.com.ph/calendar-of-activities/lalala-fest-manila/",
+    "updated_at": "2026-09-24T15:45:09.632Z",
+    "schedules": [
+      {
+        "start_time": "2026-08-21T12:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-ccp-a70dac3e467e",
+    "category": "COMEDY_THEATER",
+    "title": "THIRTEEN ARTISTS AWARDS WEBSITE RELAUNCH",
+    "poster_url": "",
+    "venue": {
+      "id": "v-ccp-main",
+      "name": "CCP Main Theater",
+      "chain_or_organizer": "CCP",
+      "city": "metro-manila",
+      "address": "Roxas Blvd, Pasay",
+      "lat": 14.5545,
+      "lng": 120.9858
+    },
+    "tags": [
+      "ccp",
+      "comedy_theater"
+    ],
+    "booking_url": "https://culturalcenter.gov.ph/event/thirteen-artists-awards-website-relaunch/",
+    "updated_at": "2026-09-24T15:45:36.971Z",
+    "schedules": [
+      {
+        "start_time": "2026-08-31T19:30:00+08:00",
+        "screen_or_hall": "CCP @ the Samsung Performing Arts Theater",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-wtc-3bc57c6fd558",
+    "category": "EXPO_COMMUNITY",
+    "title": "Asia Food Expo Afex 2026",
+    "poster_url": "https://www.wtcmanila.com.ph/wp-content/uploads/2026/08/596807130_779909231770070_2358255814322737907_n.png",
+    "venue": {
+      "id": "v-world-trade",
+      "name": "World Trade Center Metro Manila",
+      "chain_or_organizer": "WTC",
+      "city": "metro-manila",
+      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
+      "lat": 14.554,
+      "lng": 120.988
+    },
+    "tags": [
+      "wtc",
+      "expo"
+    ],
+    "booking_url": "https://www.wtcmanila.com.ph/calendar-of-activities/asia-food-expo-afex-2026/",
+    "updated_at": "2026-09-24T15:45:10.965Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-09T10:00:00+08:00",
+        "end_time": "2026-09-12T18:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-ccp-2f60bc6adec6",
+    "category": "COMEDY_THEATER",
+    "title": "FEDERATION FOR ASIAN CULTURAL PROMOTION (FACP) ANNUAL CONFERENCE 2026",
+    "poster_url": "",
+    "venue": {
+      "id": "v-manila-centroid",
+      "name": "Metro Manila",
+      "city": "metro-manila",
+      "address": "Metro Manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "ccp",
+      "comedy_theater"
+    ],
+    "booking_url": "https://culturalcenter.gov.ph/event/federation-for-asian-cultural-promotion-facp-annual-conference-2026/",
+    "updated_at": "2026-09-24T15:45:39.404Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-09T19:30:00+08:00",
+        "screen_or_hall": "Adamson University, Manila",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-ccp-ab550237ca59",
+    "category": "COMEDY_THEATER",
+    "title": "MANILA INTERNATIONAL PERFORMING ARTS MARKET (MIPAM) 2026",
+    "poster_url": "",
+    "venue": {
+      "id": "v-ccp-main",
+      "name": "CCP Main Theater",
+      "chain_or_organizer": "CCP",
+      "city": "metro-manila",
+      "address": "Roxas Blvd, Pasay",
+      "lat": 14.5545,
+      "lng": 120.9858
+    },
+    "tags": [
+      "ccp",
+      "comedy_theater"
+    ],
+    "booking_url": "https://culturalcenter.gov.ph/event/manila-international-performing-arts-market-mipam-2026/",
+    "updated_at": "2026-09-24T15:45:41.742Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-11T19:30:00+08:00",
+        "screen_or_hall": "Tanghalang Ignacio Gimenez (CCP Black Box Theater)",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-ccp-7487d26656fc",
+    "category": "COMEDY_THEATER",
+    "title": "1001 Nights BY BALLET PHILIPPINES",
+    "poster_url": "",
+    "venue": {
+      "id": "v-solaire",
+      "name": "The Theatre at Solaire",
+      "chain_or_organizer": "Solaire",
+      "city": "metro-manila",
+      "address": "Solaire Resort, Parañaque",
+      "lat": 14.5235,
+      "lng": 120.9805
+    },
+    "tags": [
+      "ccp",
+      "comedy_theater"
+    ],
+    "booking_url": "https://culturalcenter.gov.ph/event/paglalakbay-1001-nights-by-ballet-philippines/",
+    "updated_at": "2026-09-24T15:45:44.036Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-11T20:00:00+08:00",
+        "screen_or_hall": "The Theatre at Solaire",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-wtc-38a3dbb573aa",
+    "category": "EXPO_COMMUNITY",
+    "title": "Purveyr Fair 2026",
+    "poster_url": "https://www.wtcmanila.com.ph/wp-content/uploads/2026/08/727346341_1454938923335785_5870904479667255466_n.jpg",
+    "venue": {
+      "id": "v-world-trade",
+      "name": "World Trade Center Metro Manila",
+      "chain_or_organizer": "WTC",
+      "city": "metro-manila",
+      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
+      "lat": 14.554,
+      "lng": 120.988
+    },
+    "tags": [
+      "wtc",
+      "expo"
+    ],
+    "booking_url": "https://www.wtcmanila.com.ph/calendar-of-activities/purveyr-fair-2026/",
+    "updated_at": "2026-09-24T15:45:11.863Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-12T11:00:00+08:00",
+        "end_time": "2026-09-13T18:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-wtc-c23241245286",
+    "category": "EXPO_COMMUNITY",
+    "title": "Transport Logistics Philippines 2026",
+    "poster_url": "https://www.wtcmanila.com.ph/wp-content/uploads/2026/08/653036683_1541737201293405_3007390836490799226_n.png",
+    "venue": {
+      "id": "v-world-trade",
+      "name": "World Trade Center Metro Manila",
+      "chain_or_organizer": "WTC",
+      "city": "metro-manila",
+      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
+      "lat": 14.554,
+      "lng": 120.988
+    },
+    "tags": [
+      "wtc",
+      "expo"
+    ],
+    "booking_url": "https://www.wtcmanila.com.ph/calendar-of-activities/transport-logistics-philippines-2026/",
+    "updated_at": "2026-09-24T15:45:13.213Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-16T10:00:00+08:00",
+        "end_time": "2026-09-18T18:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-ccp-2e9f08e86bff",
+    "category": "COMEDY_THEATER",
+    "title": "TANGHALANG PILIPINO’S “SAYAW NG MGA ILAW”",
+    "poster_url": "",
+    "venue": {
+      "id": "v-ccp-main",
+      "name": "CCP Main Theater",
+      "chain_or_organizer": "CCP",
+      "city": "metro-manila",
+      "address": "Roxas Blvd, Pasay",
+      "lat": 14.5545,
+      "lng": 120.9858
+    },
+    "tags": [
+      "ccp",
+      "comedy_theater"
+    ],
+    "booking_url": "https://culturalcenter.gov.ph/event/tanghalang-pilipinos-sayaw-ng-mga-ilaw/",
+    "updated_at": "2026-09-24T15:45:30.050Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-18T15:00:00+08:00",
+        "screen_or_hall": "Tanghalang Ignacio Gimenez (CCP Black Box Theater)",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-ccp-669c1103d62f",
+    "category": "COMEDY_THEATER",
+    "title": "PAGDIRIWANG SA UE (PPO OUTREACH CONCERT AT THE UNIVERSITY OF THE EAST)",
+    "poster_url": "",
+    "venue": {
+      "id": "v-ccp-main",
+      "name": "CCP Main Theater",
+      "chain_or_organizer": "CCP",
+      "city": "metro-manila",
+      "address": "Roxas Blvd, Pasay",
+      "lat": 14.5545,
+      "lng": 120.9858
+    },
+    "tags": [
+      "ccp",
+      "comedy_theater"
+    ],
+    "booking_url": "https://culturalcenter.gov.ph/event/pagdiriwang-sa-ue-ppo-outreach-concert-at-the-university-of-the-east/",
+    "updated_at": "2026-09-24T15:45:46.329Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-18T17:00:00+08:00",
+        "screen_or_hall": "CCP @ UE Theater, Claro M. Recto Avenue, Sampaloc, Manila",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-ccp-27ebc3858a06",
+    "category": "COMEDY_THEATER",
+    "title": "Passion and Purpose",
+    "poster_url": "",
+    "venue": {
+      "id": "v-unknown-tanghalang-haribon-insular-life-theatre-",
+      "name": "Tanghalang Haribon Insular Life Theatre Muntinlupa City",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "ccp",
+      "comedy_theater"
+    ],
+    "booking_url": "https://culturalcenter.gov.ph/event/passion-and-purpose/",
+    "updated_at": "2026-09-24T15:45:48.591Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-20T18:00:00+08:00",
+        "screen_or_hall": "Tanghalang Haribon Insular Life Theatre Muntinlupa City",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smx-7ccd6bf36225",
+    "category": "EXPO_COMMUNITY",
+    "title": "40th Negros Trade Fair",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx-aura",
+      "name": "SMX Aura",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "SM Aura Premier, Taguig",
+      "lat": 14.5515,
+      "lng": 121.0544
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/40th-negros-trade-fair-2/",
+    "updated_at": "2026-09-24T15:57:23.228Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-22T10:00:00+08:00",
+        "end_time": "2026-09-27T20:00:00+08:00",
+        "screen_or_hall": "SMX Aura",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smx-d16ba2331fc2",
+    "category": "EXPO_COMMUNITY",
+    "title": "28th Likha ng Central Luzon Trade Fair",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx-bacolod",
+      "name": "SMX Bacolod",
+      "chain_or_organizer": "SM",
+      "city": "bacolod",
+      "address": "SM City Bacolod",
+      "lat": 10.6715,
+      "lng": 122.9485
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/28th-likha-ng-central-luzon-trade-fair/",
+    "updated_at": "2026-09-24T15:57:32.204Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-23T10:00:00+08:00",
+        "end_time": "2026-09-27T20:00:00+08:00",
+        "screen_or_hall": "SMX Bacolod",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smx-413dcd170097",
+    "category": "EXPO_COMMUNITY",
+    "title": "Psychological Association of the Philippines Inc., National Convention",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx-davao",
+      "name": "SMX Davao",
+      "chain_or_organizer": "SM",
+      "city": "davao",
+      "address": "SM Lanang Premier, Davao",
+      "lat": 7.0985,
+      "lng": 125.6315
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/psychological-association-of-the-philippines-inc-national-convention/",
+    "updated_at": "2026-09-24T15:57:33.304Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-24T08:00:00+08:00",
+        "end_time": "2026-09-25T20:00:00+08:00",
+        "screen_or_hall": "SMX Davao",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smx-315cc7d487fa",
+    "category": "EXPO_COMMUNITY",
+    "title": "2nd Philippine Construction and Building Materials Expo and Philippine Power, Solar, and Electrical Expo 2026",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx",
+      "name": "SMX Convention Center Manila",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Lane, Mall of Asia Complex, Pasay",
+      "lat": 14.5365,
+      "lng": 120.9835
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/2nd-philippine-construction-and-building-materials-expo-and-philippine-power-solar-and-electrical-expo-2026/",
+    "updated_at": "2026-09-24T15:57:16.566Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-24T09:00:00+08:00",
+        "end_time": "2026-09-25T20:00:00+08:00",
+        "screen_or_hall": "SMX Manila",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smx-4b29b7b81da4",
+    "category": "EXPO_COMMUNITY",
+    "title": "NADTI Trade Exhibit",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx",
+      "name": "SMX Convention Center Manila",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Lane, Mall of Asia Complex, Pasay",
+      "lat": 14.5365,
+      "lng": 120.9835
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/nadti-trade-exhibit-3/",
+    "updated_at": "2026-09-24T15:57:17.696Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-24T09:00:00+08:00",
+        "end_time": "2026-09-24T20:00:00+08:00",
+        "screen_or_hall": "SMX Manila",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-wtc-232b39078c8e",
+    "category": "EXPO_COMMUNITY",
+    "title": "World Pet Expo 2026",
+    "poster_url": "https://www.wtcmanila.com.ph/wp-content/uploads/2026/08/590263710_1300192752150253_1551346736610185014_n.jpg",
+    "venue": {
+      "id": "v-world-trade",
+      "name": "World Trade Center Metro Manila",
+      "chain_or_organizer": "WTC",
+      "city": "metro-manila",
+      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
+      "lat": 14.554,
+      "lng": 120.988
+    },
+    "tags": [
+      "wtc",
+      "expo"
+    ],
+    "booking_url": "https://www.wtcmanila.com.ph/calendar-of-activities/world-pet-expo-2026/",
+    "updated_at": "2026-09-24T15:45:14.113Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-24T10:00:00+08:00",
+        "end_time": "2026-09-27T18:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18513",
+    "category": "CONCERT",
+    "title": "2026 SHAKEYS SUPER LEAGUE UNITY CUP - SEP 25",
+    "poster_url": "https://images1.smtickets.com/images/portrait_20092026144733.jpg",
+    "venue": {
+      "id": "v-rizal-memorial",
+      "name": "Rizal Memorial Coliseum",
+      "city": "metro-manila",
+      "address": "Pablo Ocampo Sr. St, Malate, Manila",
+      "lat": 14.5635,
+      "lng": 120.9925
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18513",
+    "updated_at": "2026-09-24T15:22:25.620Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-25T13:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18424",
+    "category": "CONCERT",
+    "title": "TP-XPENG",
+    "poster_url": "https://images1.smtickets.com/images/portrait_21092026104424.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18424",
+    "updated_at": "2026-09-24T15:22:25.620Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-25T15:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-ccp-6861699cf15c",
+    "category": "CONCERT",
+    "title": "PHILIPPINE PHILHARMONIC ORCHESTRA “MODULATIO” – The PPO’s 42nd Concert Season",
+    "poster_url": "",
+    "venue": {
+      "id": "v-ccp-main",
+      "name": "CCP Main Theater",
+      "chain_or_organizer": "CCP",
+      "city": "metro-manila",
+      "address": "Roxas Blvd, Pasay",
+      "lat": 14.5545,
+      "lng": 120.9858
+    },
+    "tags": [
+      "ccp",
+      "concert"
+    ],
+    "booking_url": "https://culturalcenter.gov.ph/event/philippine-philharmonic-orchestra-modulatio-the-ppos-42nd-concert-season/",
+    "updated_at": "2026-09-24T15:45:30.051Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-25T19:30:00+08:00",
+        "screen_or_hall": "Various CCP Venues",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-ccp-90c965ab682a",
+    "category": "CONCERT",
+    "title": "PHILIPPINE PHILHARMONIC ORCHESTRA “MODULATIO” – The PPO’s 42nd Concert Season Concert I: “Da Capo”",
+    "poster_url": "",
+    "venue": {
+      "id": "v-ccp-main",
+      "name": "CCP Main Theater",
+      "chain_or_organizer": "CCP",
+      "city": "metro-manila",
+      "address": "Roxas Blvd, Pasay",
+      "lat": 14.5545,
+      "lng": 120.9858
+    },
+    "tags": [
+      "ccp",
+      "concert"
+    ],
+    "booking_url": "https://culturalcenter.gov.ph/event/philippine-philharmonic-orchestra-modulatio-the-ppos-42nd-concert-season-concert-i-da-capo/",
+    "updated_at": "2026-09-24T15:45:30.050Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-25T19:30:00+08:00",
+        "screen_or_hall": "CCP @ the Samsung Performing Arts Theater",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18489",
+    "category": "CONCERT",
+    "title": "SM BICUTAN PICKLEBALL - SEP 25",
+    "poster_url": "https://images1.smtickets.com/images/portrait_12042025103603.jpg",
+    "venue": {
+      "id": "v-unknown-sm-bicutan",
+      "name": "SM BICUTAN",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18489",
+    "updated_at": "2026-09-24T15:22:25.620Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-25T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18531",
+    "category": "CONCERT",
+    "title": "SM CENTER SHAW PICKLEBALL - SEP 25",
+    "poster_url": "https://images1.smtickets.com/images/portrait_01122025144343.jpg",
+    "venue": {
+      "id": "v-unknown-sm-center-shaw",
+      "name": "SM CENTER SHAW",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18531",
+    "updated_at": "2026-09-24T15:22:25.620Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-25T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18452",
+    "category": "CONCERT",
+    "title": "SM SOUTHMALL PICKLEBALL - SEP 25",
+    "poster_url": "https://images1.smtickets.com/images/portrait_04092025175626.jpg",
+    "venue": {
+      "id": "v-unknown-sm-southmall",
+      "name": "SM SOUTHMALL",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18452",
+    "updated_at": "2026-09-24T15:22:25.620Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-25T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18474",
+    "category": "CONCERT",
+    "title": "SM STA MESA PICKLEBALL - SEP 25",
+    "poster_url": "https://images1.smtickets.com/images/portrait_12042025150144.jpg",
+    "venue": {
+      "id": "v-unknown-sm-sta-mesa",
+      "name": "SM STA MESA",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18474",
+    "updated_at": "2026-09-24T15:22:25.620Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-25T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smx-38d66c0c4da6",
+    "category": "EXPO_COMMUNITY",
+    "title": "JDM Underground YN (Yabangan Noons/Nights)",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx",
+      "name": "SMX Convention Center Manila",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Lane, Mall of Asia Complex, Pasay",
+      "lat": 14.5365,
+      "lng": 120.9835
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/jdm-underground-yn-yabangan-noons-nights/",
+    "updated_at": "2026-09-24T15:57:18.827Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-26T09:00:00+08:00",
+        "end_time": "2026-09-27T20:00:00+08:00",
+        "screen_or_hall": "SMX Manila",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smx-7ff026b1d502",
+    "category": "EXPO_COMMUNITY",
+    "title": "47th Wedding Expo Philippines",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx",
+      "name": "SMX Convention Center Manila",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Lane, Mall of Asia Complex, Pasay",
+      "lat": 14.5365,
+      "lng": 120.9835
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/47th-wedding-expo-philippines/",
+    "updated_at": "2026-09-24T15:57:19.957Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-26T10:00:00+08:00",
+        "end_time": "2026-09-27T20:00:00+08:00",
+        "screen_or_hall": "SMX Manila",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18514",
+    "category": "CONCERT",
+    "title": "2026 SHAKEYS SUPER LEAGUE UNITY CUP - SEP 26",
+    "poster_url": "https://images1.smtickets.com/images/portrait_20092026145026.jpg",
+    "venue": {
+      "id": "v-rizal-memorial",
+      "name": "Rizal Memorial Coliseum",
+      "city": "metro-manila",
+      "address": "Pablo Ocampo Sr. St, Malate, Manila",
+      "lat": 14.5635,
+      "lng": 120.9925
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18514",
+    "updated_at": "2026-09-24T15:22:25.620Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-26T11:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18418",
+    "category": "CONCERT",
+    "title": "UAAP SEASON 89 MENS BASKETBALL - SEP 26 - Ateneo vs AdU - UE vs FEU",
+    "poster_url": "https://images1.smtickets.com/images/portrait_23092025173827.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18418",
+    "updated_at": "2026-09-24T15:22:25.620Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-26T12:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1994000323645",
+    "category": "COMEDY_THEATER",
+    "title": "Overnight Wellness Retreat",
+    "poster_url": "",
+    "venue": {
+      "id": "v-unknown-our-overnight-wellness-retreat",
+      "name": "our Overnight Wellness Retreat!",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "eventbrite",
+      "comedy_theater"
+    ],
+    "booking_url": "https://www.eventbrite.hk/e/overnight-wellness-retreat-tickets-1994000323645",
+    "updated_at": "2026-09-24T15:52:40.566Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-26T15:00:00+08:00",
+        "end_time": "2026-09-27T13:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18276",
+    "category": "CONCERT",
+    "title": "BIDA SA ARENA THE REMATCH",
+    "poster_url": "https://images1.smtickets.com/images/portrait_16082026152042.jpg",
+    "venue": {
+      "id": "v-unknown-sm-seaside-cebu-arena",
+      "name": "SM Seaside Cebu Arena",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18276",
+    "updated_at": "2026-09-24T15:22:25.620Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-26T17:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18419",
+    "category": "CONCERT",
+    "title": "UAAP SEASON 89 MENS BASKETBALL - SEP 26 - NU vs UP",
+    "poster_url": "https://images1.smtickets.com/images/portrait_23092025173827.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18419",
+    "updated_at": "2026-09-24T15:22:25.620Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-26T18:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18490",
+    "category": "CONCERT",
+    "title": "SM BICUTAN PICKLEBALL - SEP 26",
+    "poster_url": "https://images1.smtickets.com/images/portrait_12042025103603.jpg",
+    "venue": {
+      "id": "v-unknown-sm-bicutan",
+      "name": "SM BICUTAN",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18490",
+    "updated_at": "2026-09-24T15:22:25.620Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-26T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18532",
+    "category": "CONCERT",
+    "title": "SM CENTER SHAW PICKLEBALL - SEP 26",
+    "poster_url": "https://images1.smtickets.com/images/portrait_01122025144343.jpg",
+    "venue": {
+      "id": "v-unknown-sm-center-shaw",
+      "name": "SM CENTER SHAW",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18532",
+    "updated_at": "2026-09-24T15:22:25.620Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-26T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18453",
+    "category": "CONCERT",
+    "title": "SM SOUTHMALL PICKLEBALL - SEP 26",
+    "poster_url": "https://images1.smtickets.com/images/portrait_04092025175626.jpg",
+    "venue": {
+      "id": "v-unknown-sm-southmall",
+      "name": "SM SOUTHMALL",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18453",
+    "updated_at": "2026-09-24T15:22:25.620Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-26T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18475",
+    "category": "CONCERT",
+    "title": "SM STA MESA PICKLEBALL - SEP 26",
+    "poster_url": "https://images1.smtickets.com/images/portrait_12042025150144.jpg",
+    "venue": {
+      "id": "v-unknown-sm-sta-mesa",
+      "name": "SM STA MESA",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18475",
+    "updated_at": "2026-09-24T15:22:25.620Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-26T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smx-a4d1055fac41",
+    "category": "EXPO_COMMUNITY",
+    "title": "National Convention Mother Butler Mission Guilds",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx-clark",
+      "name": "SMX Clark",
+      "chain_or_organizer": "SM",
+      "city": "north-luzon",
+      "address": "SM City Clark, Angeles / Mabalacat",
+      "lat": 15.169,
+      "lng": 120.58
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/national-convention-mother-butler-mission-guilds-2/",
+    "updated_at": "2026-09-24T15:57:28.839Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-27T08:00:00+08:00",
+        "end_time": "2026-09-27T20:00:00+08:00",
+        "screen_or_hall": "SMX Clark",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1999359608410",
+    "category": "NIGHTLIFE_SOCIAL",
+    "title": "ICOC GenSan 30th Anniversary Celebration",
+    "poster_url": "",
+    "venue": {
+      "id": "v-smx-davao",
+      "name": "SMX Davao",
+      "chain_or_organizer": "SM",
+      "city": "davao",
+      "address": "SM Lanang Premier, Davao",
+      "lat": 7.0985,
+      "lng": 125.6315
+    },
+    "tags": [
+      "eventbrite",
+      "nightlife_social"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/icoc-gensan-30th-anniversary-celebration-tickets-1999359608410",
+    "updated_at": "2026-09-24T15:52:13.043Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-27T09:00:00+08:00",
+        "end_time": "2026-09-27T12:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1998260145888",
+    "category": "NIGHTLIFE_SOCIAL",
+    "title": "Club Cardamon Reloaded",
+    "poster_url": "",
+    "venue": {
+      "id": "v-unknown-club-cardamon-reloaded-where-the-beats-d",
+      "name": "Club Cardamon Reloaded – where the beats drop and the fun ne",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "eventbrite",
+      "nightlife_social"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/club-cardamon-reloaded-tickets-1998260145888",
+    "updated_at": "2026-09-24T15:52:34.751Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-27T10:00:00+08:00",
+        "end_time": "2026-09-27T12:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18515",
+    "category": "CONCERT",
+    "title": "2026 SHAKEYS SUPER LEAGUE UNITY CUP - SEP 27",
+    "poster_url": "https://images1.smtickets.com/images/portrait_20092026151406.jpg",
+    "venue": {
+      "id": "v-rizal-memorial",
+      "name": "Rizal Memorial Coliseum",
+      "city": "metro-manila",
+      "address": "Pablo Ocampo Sr. St, Malate, Manila",
+      "lat": 14.5635,
+      "lng": 120.9925
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18515",
+    "updated_at": "2026-09-24T15:22:25.620Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-27T13:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18491",
+    "category": "CONCERT",
+    "title": "SM BICUTAN PICKLEBALL - SEP 27",
+    "poster_url": "https://images1.smtickets.com/images/portrait_12042025103603.jpg",
+    "venue": {
+      "id": "v-unknown-sm-bicutan",
+      "name": "SM BICUTAN",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18491",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-27T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18533",
+    "category": "CONCERT",
+    "title": "SM CENTER SHAW PICKLEBALL - SEP 27",
+    "poster_url": "https://images1.smtickets.com/images/portrait_01122025144343.jpg",
+    "venue": {
+      "id": "v-unknown-sm-center-shaw",
+      "name": "SM CENTER SHAW",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18533",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-27T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18454",
+    "category": "CONCERT",
+    "title": "SM SOUTHMALL PICKLEBALL - SEP 27",
+    "poster_url": "https://images1.smtickets.com/images/portrait_04092025175626.jpg",
+    "venue": {
+      "id": "v-unknown-sm-southmall",
+      "name": "SM SOUTHMALL",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18454",
+    "updated_at": "2026-09-24T15:22:25.620Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-27T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18476",
+    "category": "CONCERT",
+    "title": "SM STA MESA PICKLEBALL - SEP 27",
+    "poster_url": "https://images1.smtickets.com/images/portrait_12042025150144.jpg",
+    "venue": {
+      "id": "v-unknown-sm-sta-mesa",
+      "name": "SM STA MESA",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18476",
+    "updated_at": "2026-09-24T15:22:25.620Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-27T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-16433",
+    "category": "CONCERT",
+    "title": "FOREVER ENCHANTED 2026",
+    "poster_url": "https://images1.smtickets.com/images/portrait_21052026173238.jpg",
+    "venue": {
+      "id": "v-unknown-enchanted-kingdom-san-lorenzo-south-sta-",
+      "name": "Enchanted Kingdom, San Lorenzo South, Sta. Rosa, Laguna",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/16433",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-27T23:59:59+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smx-acd7d4809cff",
+    "category": "EXPO_COMMUNITY",
+    "title": "National Convention Mother Butler Mission Guilds",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx-clark",
+      "name": "SMX Clark",
+      "chain_or_organizer": "SM",
+      "city": "north-luzon",
+      "address": "SM City Clark, Angeles / Mabalacat",
+      "lat": 15.169,
+      "lng": 120.58
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/national-convention-mother-butler-mission-guilds/",
+    "updated_at": "2026-09-24T15:57:29.956Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-28T08:00:00+08:00",
+        "end_time": "2026-09-28T20:00:00+08:00",
+        "screen_or_hall": "SMX Clark",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18492",
+    "category": "CONCERT",
+    "title": "SM BICUTAN PICKLEBALL - SEP 28",
+    "poster_url": "https://images1.smtickets.com/images/portrait_12042025103603.jpg",
+    "venue": {
+      "id": "v-unknown-sm-bicutan",
+      "name": "SM BICUTAN",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18492",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-28T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18534",
+    "category": "CONCERT",
+    "title": "SM CENTER SHAW PICKLEBALL - SEP 28",
+    "poster_url": "https://images1.smtickets.com/images/portrait_01122025144343.jpg",
+    "venue": {
+      "id": "v-unknown-sm-center-shaw",
+      "name": "SM CENTER SHAW",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18534",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-28T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18455",
+    "category": "CONCERT",
+    "title": "SM SOUTHMALL PICKLEBALL - SEP 28",
+    "poster_url": "https://images1.smtickets.com/images/portrait_04092025175626.jpg",
+    "venue": {
+      "id": "v-unknown-sm-southmall",
+      "name": "SM SOUTHMALL",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18455",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-28T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18477",
+    "category": "CONCERT",
+    "title": "SM STA MESA PICKLEBALL - SEP 28",
+    "poster_url": "https://images1.smtickets.com/images/portrait_12042025150144.jpg",
+    "venue": {
+      "id": "v-unknown-sm-sta-mesa",
+      "name": "SM STA MESA",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18477",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-28T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1998361311477",
+    "category": "COMEDY_THEATER",
+    "title": "CULTOUR AND FAİR",
+    "poster_url": "",
+    "venue": {
+      "id": "v-smx-bacolod",
+      "name": "SMX Bacolod",
+      "chain_or_organizer": "SM",
+      "city": "bacolod",
+      "address": "SM City Bacolod",
+      "lat": 10.6715,
+      "lng": 122.9485
+    },
+    "tags": [
+      "eventbrite",
+      "comedy_theater"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/cultour-and-fair-tickets-1998361311477",
+    "updated_at": "2026-09-24T15:52:56.027Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-29T07:00:00+08:00",
+        "end_time": "2026-09-29T07:11:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smx-d4fe910664d9",
+    "category": "EXPO_COMMUNITY",
+    "title": "Blue Economy Annual Trade and Conference (BEACON 2026)",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx",
+      "name": "SMX Convention Center Manila",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Lane, Mall of Asia Complex, Pasay",
+      "lat": 14.5365,
+      "lng": 120.9835
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/blue-economy-annual-trade-and-conference-beacon-2026/",
+    "updated_at": "2026-09-24T15:57:21.088Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-29T08:00:00+08:00",
+        "end_time": "2026-09-30T20:00:00+08:00",
+        "screen_or_hall": "SMX Manila",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18493",
+    "category": "CONCERT",
+    "title": "SM BICUTAN PICKLEBALL - SEP 29",
+    "poster_url": "https://images1.smtickets.com/images/portrait_12042025103603.jpg",
+    "venue": {
+      "id": "v-unknown-sm-bicutan",
+      "name": "SM BICUTAN",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18493",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-29T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18535",
+    "category": "CONCERT",
+    "title": "SM CENTER SHAW PICKLEBALL - SEP 29",
+    "poster_url": "https://images1.smtickets.com/images/portrait_01122025144343.jpg",
+    "venue": {
+      "id": "v-unknown-sm-center-shaw",
+      "name": "SM CENTER SHAW",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18535",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-29T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18456",
+    "category": "CONCERT",
+    "title": "SM SOUTHMALL PICKLEBALL - SEP 29",
+    "poster_url": "https://images1.smtickets.com/images/portrait_04092025175626.jpg",
+    "venue": {
+      "id": "v-unknown-sm-southmall",
+      "name": "SM SOUTHMALL",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18456",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-29T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18478",
+    "category": "CONCERT",
+    "title": "SM STA MESA PICKLEBALL - SEP 29",
+    "poster_url": "https://images1.smtickets.com/images/portrait_12042025150144.jpg",
+    "venue": {
+      "id": "v-unknown-sm-sta-mesa",
+      "name": "SM STA MESA",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18478",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-29T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-14544",
+    "category": "CONCERT",
+    "title": "SM BICUTAN PICKLEBALL",
+    "poster_url": "https://images1.smtickets.com/images/portrait_11042025170518.jpg",
+    "venue": {
+      "id": "v-unknown-sm-bicutan",
+      "name": "SM BICUTAN",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/14544",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-30T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18494",
+    "category": "CONCERT",
+    "title": "SM BICUTAN PICKLEBALL - SEP 30",
+    "poster_url": "https://images1.smtickets.com/images/portrait_12042025103603.jpg",
+    "venue": {
+      "id": "v-unknown-sm-bicutan",
+      "name": "SM BICUTAN",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18494",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-30T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18536",
+    "category": "CONCERT",
+    "title": "SM CENTER SHAW PICKLEBALL - SEP 30",
+    "poster_url": "https://images1.smtickets.com/images/portrait_01122025144343.jpg",
+    "venue": {
+      "id": "v-unknown-sm-center-shaw",
+      "name": "SM CENTER SHAW",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18536",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-30T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-15462",
+    "category": "CONCERT",
+    "title": "SM SOUTHMALL PICKLEBALL",
+    "poster_url": "https://images1.smtickets.com/images/portrait_01092025131359.jpg",
+    "venue": {
+      "id": "v-unknown-sm-southmall",
+      "name": "SM SOUTHMALL",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/15462",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-30T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18457",
+    "category": "CONCERT",
+    "title": "SM SOUTHMALL PICKLEBALL - SEP 30",
+    "poster_url": "https://images1.smtickets.com/images/portrait_04092025175626.jpg",
+    "venue": {
+      "id": "v-unknown-sm-southmall",
+      "name": "SM SOUTHMALL",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18457",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-30T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-14413",
+    "category": "CONCERT",
+    "title": "SM STA MESA PICKLEBALL",
+    "poster_url": "https://images1.smtickets.com/images/portrait_28032025184836.jpg",
+    "venue": {
+      "id": "v-unknown-sm-sta-mesa",
+      "name": "SM STA MESA",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/14413",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-30T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18479",
+    "category": "CONCERT",
+    "title": "SM STA MESA PICKLEBALL - SEP 30",
+    "poster_url": "https://images1.smtickets.com/images/portrait_12042025150144.jpg",
+    "venue": {
+      "id": "v-unknown-sm-sta-mesa",
+      "name": "SM STA MESA",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18479",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-30T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-16297",
+    "category": "CONCERT",
+    "title": "SM CENTER SHAW PICKLEBALL",
+    "poster_url": "https://images1.smtickets.com/images/portrait_01122025144343.jpg",
+    "venue": {
+      "id": "v-unknown-sm-center-shaw",
+      "name": "SM CENTER SHAW",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/16297",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-30T23:59:59+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smx-768cb38aba6c",
+    "category": "EXPO_COMMUNITY",
+    "title": "ISOGx Season 4 Conference: Cybersecurity Solution Pitch and Exhibition",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx-aura",
+      "name": "SMX Aura",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "SM Aura Premier, Taguig",
+      "lat": 14.5515,
+      "lng": 121.0544
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/isogx-season-4-conference-cybersecurity-solution-pitch-and-exhibition/",
+    "updated_at": "2026-09-24T15:57:24.328Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-01T08:00:00+08:00",
+        "end_time": "2026-10-01T20:00:00+08:00",
+        "screen_or_hall": "SMX Aura",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smx-ef80aa6b24c3",
+    "category": "EXPO_COMMUNITY",
+    "title": "ISOGx Season 4 Conference: Cybersecurity Solution Pitch and Exhibition",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx-aura",
+      "name": "SMX Aura",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "SM Aura Premier, Taguig",
+      "lat": 14.5515,
+      "lng": 121.0544
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/isogx-season-4-conference-cybersecurity-solution-pitch-and-exhibition-2/",
+    "updated_at": "2026-09-24T15:57:25.475Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-01T08:00:00+08:00",
+        "end_time": "2026-10-01T20:00:00+08:00",
+        "screen_or_hall": "SMX Aura",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1977954303567",
+    "category": "EXPO_COMMUNITY",
+    "title": "Kape at Kasanayan: A Two-Day Face-to-Face Barista Skills Beginner Practicum",
+    "poster_url": "",
+    "venue": {
+      "id": "v-unknown-this-two-day-barista-skills-workshop",
+      "name": "this two-day barista skills workshop!",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "eventbrite",
+      "expo_community"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/kape-at-kasanayan-a-two-day-face-to-face-barista-skills-beginner-practicum-tickets-1977954303567",
+    "updated_at": "2026-09-24T15:52:13.043Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-01T08:30:00+08:00",
+        "end_time": "2026-10-02T17:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1997441776122",
+    "category": "COMEDY_THEATER",
+    "title": "Arrival Gallery - Manila Art Show",
+    "poster_url": "",
+    "venue": {
+      "id": "v-world-trade",
+      "name": "World Trade Center Metro Manila",
+      "chain_or_organizer": "WTC",
+      "city": "metro-manila",
+      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
+      "lat": 14.554,
+      "lng": 120.988
+    },
+    "tags": [
+      "eventbrite",
+      "comedy_theater"
+    ],
+    "booking_url": "https://www.eventbrite.co.uk/e/arrival-gallery-manila-art-show-tickets-1997441776122",
+    "updated_at": "2026-09-24T15:51:17.894Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-01T10:00:00+08:00",
+        "end_time": "2026-10-31T19:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smx-c89e9941a5fb",
+    "category": "EXPO_COMMUNITY",
+    "title": "Furniture Expo 2026",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx-clark",
+      "name": "SMX Clark",
+      "chain_or_organizer": "SM",
+      "city": "north-luzon",
+      "address": "SM City Clark, Angeles / Mabalacat",
+      "lat": 15.169,
+      "lng": 120.58
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/furniture-expo-2026/",
+    "updated_at": "2026-09-24T15:57:31.088Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-01T10:00:00+08:00",
+        "end_time": "2026-10-03T20:00:00+08:00",
+        "screen_or_hall": "SMX Clark",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smx-410f92ea6c8a",
+    "category": "EXPO_COMMUNITY",
+    "title": "Go! Study Abroad Fair",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx-aura",
+      "name": "SMX Aura",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "SM Aura Premier, Taguig",
+      "lat": 14.5515,
+      "lng": 121.0544
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/go-study-abroad-fair-4/",
+    "updated_at": "2026-09-24T15:57:26.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-02T14:00:00+08:00",
+        "end_time": "2026-10-02T20:00:00+08:00",
+        "screen_or_hall": "SMX Aura",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18428",
+    "category": "CONCERT",
+    "title": "KIM SOO HYUN FAN MEET - INTERNATIONAL",
+    "poster_url": "https://images1.smtickets.com/images/portrait_09092026122111.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18428",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-02T19:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18427",
+    "category": "CONCERT",
+    "title": "KIM SOO HYUN FAN MEET - LOCAL",
+    "poster_url": "https://images1.smtickets.com/images/portrait_09092026122111.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18427",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-02T19:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smx-f14265b27d30",
+    "category": "EXPO_COMMUNITY",
+    "title": "Momzilla Fair 2026",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx-aura",
+      "name": "SMX Aura",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "SM Aura Premier, Taguig",
+      "lat": 14.5515,
+      "lng": 121.0544
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/momzilla-fair-2026/",
+    "updated_at": "2026-09-24T15:57:27.738Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-03T10:00:00+08:00",
+        "end_time": "2026-10-04T20:00:00+08:00",
+        "screen_or_hall": "SMX Aura",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smx-4c56a392896d",
+    "category": "EXPO_COMMUNITY",
+    "title": "Philippine International Cards and Collectibles",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx-davao",
+      "name": "SMX Davao",
+      "chain_or_organizer": "SM",
+      "city": "davao",
+      "address": "SM Lanang Premier, Davao",
+      "lat": 7.0985,
+      "lng": 125.6315
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/philippine-international-cards-and-collectibles/",
+    "updated_at": "2026-09-24T15:57:34.421Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-03T10:00:00+08:00",
+        "end_time": "2026-10-04T20:00:00+08:00",
+        "screen_or_hall": "SMX Davao",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18426",
+    "category": "CONCERT",
+    "title": "FILIPINO MUSIC AWARDS 2026",
+    "poster_url": "https://images1.smtickets.com/images/portrait_15092026154522.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18426",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-06T19:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1989435767936",
+    "category": "EXPO_COMMUNITY",
+    "title": "Individual Agents & Promoters Wanted (Part-Time, Full Time income )",
+    "poster_url": "",
+    "venue": {
+      "id": "v-smx-davao",
+      "name": "SMX Davao",
+      "chain_or_organizer": "SM",
+      "city": "davao",
+      "address": "SM Lanang Premier, Davao",
+      "lat": 7.0985,
+      "lng": 125.6315
+    },
+    "tags": [
+      "eventbrite",
+      "expo_community"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/individual-agents-promoters-wanted-part-time-full-time-income-tickets-1989435767936",
+    "updated_at": "2026-09-24T15:52:13.043Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-07T09:00:00+08:00",
+        "end_time": "2026-10-07T17:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-wtc-76fd5d661ad7",
+    "category": "EXPO_COMMUNITY",
+    "title": "Agrilink Foodlink Aqualink 2026",
+    "poster_url": "https://www.wtcmanila.com.ph/wp-content/uploads/2026/09/744859414_1477764454388371_4643232604286250347_n.png",
+    "venue": {
+      "id": "v-world-trade",
+      "name": "World Trade Center Metro Manila",
+      "chain_or_organizer": "WTC",
+      "city": "metro-manila",
+      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
+      "lat": 14.554,
+      "lng": 120.988
+    },
+    "tags": [
+      "wtc",
+      "expo"
+    ],
+    "booking_url": "https://www.wtcmanila.com.ph/calendar-of-activities/agrilink-foodlink-aqualink-2026/",
+    "updated_at": "2026-09-24T15:45:06.177Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-08T09:00:00+08:00",
+        "end_time": "2026-10-10T18:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18516",
+    "category": "CONCERT",
+    "title": "2026 SHAKEYS SUPER LEAGUE UNITY CUP - OCT 09",
+    "poster_url": "https://images1.smtickets.com/images/portrait_20092026152505.jpg",
+    "venue": {
+      "id": "v-rizal-memorial",
+      "name": "Rizal Memorial Coliseum",
+      "city": "metro-manila",
+      "address": "Pablo Ocampo Sr. St, Malate, Manila",
+      "lat": 14.5635,
+      "lng": 120.9925
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18516",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-09T13:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1994142499898",
+    "category": "EXPO_COMMUNITY",
+    "title": "Data Analysis using MS Excel",
+    "poster_url": "",
+    "venue": {
+      "id": "v-world-trade",
+      "name": "World Trade Center Metro Manila",
+      "chain_or_organizer": "WTC",
+      "city": "metro-manila",
+      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
+      "lat": 14.554,
+      "lng": 120.988
+    },
+    "tags": [
+      "eventbrite",
+      "expo_community"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/data-analysis-using-ms-excel-tickets-1994142499898",
+    "updated_at": "2026-09-24T15:51:17.894Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-10T08:00:00+08:00",
+        "end_time": "2026-10-10T17:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1993830506718",
+    "category": "NIGHTLIFE_SOCIAL",
+    "title": "KapeCon 2026",
+    "poster_url": "",
+    "venue": {
+      "id": "v-world-trade",
+      "name": "World Trade Center Metro Manila",
+      "chain_or_organizer": "WTC",
+      "city": "metro-manila",
+      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
+      "lat": 14.554,
+      "lng": 120.988
+    },
+    "tags": [
+      "eventbrite",
+      "nightlife_social"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/kapecon-2026-tickets-1993830506718",
+    "updated_at": "2026-09-24T15:51:23.249Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-10T08:00:00+08:00",
+        "end_time": "2026-10-11T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smx-ea2582a9d446",
+    "category": "EXPO_COMMUNITY",
+    "title": "CFO L.I.V.E. 2026",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx-davao",
+      "name": "SMX Davao",
+      "chain_or_organizer": "SM",
+      "city": "davao",
+      "address": "SM Lanang Premier, Davao",
+      "lat": 7.0985,
+      "lng": 125.6315
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/cfo-l-i-v-e-2026/",
+    "updated_at": "2026-09-24T15:57:35.552Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-10T10:00:00+08:00",
+        "end_time": "2026-10-11T20:00:00+08:00",
+        "screen_or_hall": "SMX Davao",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18517",
+    "category": "CONCERT",
+    "title": "2026 SHAKEYS SUPER LEAGUE UNITY CUP - OCT 10",
+    "poster_url": "https://images1.smtickets.com/images/portrait_20092026153110.jpg",
+    "venue": {
+      "id": "v-rizal-memorial",
+      "name": "Rizal Memorial Coliseum",
+      "city": "metro-manila",
+      "address": "Pablo Ocampo Sr. St, Malate, Manila",
+      "lat": 14.5635,
+      "lng": 120.9925
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18517",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-10T13:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18205",
+    "category": "CONCERT",
+    "title": "2026 BYEONWOOSEOK ASIA FANMEETING TOUR THE SECRET LIBRARY IN MANILA",
+    "poster_url": "https://images1.smtickets.com/images/portrait_28072026161738.JPG",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18205",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-10T18:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1991886647583",
+    "category": "EXPO_COMMUNITY",
+    "title": "Amenophis temple #217 Annual Potentate’s Ball",
+    "poster_url": "",
+    "venue": {
+      "id": "v-world-trade",
+      "name": "World Trade Center Metro Manila",
+      "chain_or_organizer": "WTC",
+      "city": "metro-manila",
+      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
+      "lat": 14.554,
+      "lng": 120.988
+    },
+    "tags": [
+      "eventbrite",
+      "expo_community"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/amenophis-temple-217-annual-potentates-ball-tickets-1991886647583",
+    "updated_at": "2026-09-24T15:51:28.389Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-10T19:00:00+08:00",
+        "end_time": "2026-10-10T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18242",
+    "category": "CONCERT",
+    "title": "ASAP XP PAMPANGA - 12NN - NEW DATE OCT 11",
+    "poster_url": "https://images1.smtickets.com/images/portrait_05092026171249.jpg",
+    "venue": {
+      "id": "v-unknown-lapid-arena-angeles-city-pampanga",
+      "name": "Lapid Arena, Angeles City, Pampanga",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18242",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-11T12:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18518",
+    "category": "CONCERT",
+    "title": "2026 SHAKEYS SUPER LEAGUE UNITY CUP - OCT 11",
+    "poster_url": "https://images1.smtickets.com/images/portrait_20092026153517.jpg",
+    "venue": {
+      "id": "v-rizal-memorial",
+      "name": "Rizal Memorial Coliseum",
+      "city": "metro-manila",
+      "address": "Pablo Ocampo Sr. St, Malate, Manila",
+      "lat": 14.5635,
+      "lng": 120.9925
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/18518",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-11T13:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18257",
+    "category": "CONCERT",
+    "title": "ASAP XP PAMPANGA - 7PM - NEW DATE OCT 11",
+    "poster_url": "https://images1.smtickets.com/images/portrait_05092026173730.jpg",
+    "venue": {
+      "id": "v-unknown-lapid-arena-angeles-city-pampanga",
+      "name": "Lapid Arena, Angeles City, Pampanga",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18257",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-11T19:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18258",
+    "category": "CONCERT",
+    "title": "ASAP XP PAMPANGA",
+    "poster_url": "https://images1.smtickets.com/images/portrait_05092026171416.jpg",
+    "venue": {
+      "id": "v-unknown-lapid-arena-angeles-city-pampanga",
+      "name": "Lapid Arena, Angeles City, Pampanga",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18258",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-11T23:59:59+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smx-d46d6d2bf603",
+    "category": "EXPO_COMMUNITY",
+    "title": "7/11 Tradeshow",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx-davao",
+      "name": "SMX Davao",
+      "chain_or_organizer": "SM",
+      "city": "davao",
+      "address": "SM Lanang Premier, Davao",
+      "lat": 7.0985,
+      "lng": 125.6315
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/7-11-tradeshow-2/",
+    "updated_at": "2026-09-24T15:57:36.700Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-12T08:00:00+08:00",
+        "end_time": "2026-10-13T20:00:00+08:00",
+        "screen_or_hall": "SMX Davao",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17365",
+    "category": "CONCERT",
+    "title": "CHARLIE PUTH - WHATEVERS CLEVER WORLD TOUR",
+    "poster_url": "https://images1.smtickets.com/images/portrait_18042026131752.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17365",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-14T00:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17496",
+    "category": "CONCERT",
+    "title": "CHARLIE PUTH - WHATEVERS CLEVER WORLD TOUR - MASTERCARD PREFERRED",
+    "poster_url": "https://images1.smtickets.com/images/portrait_18042026131752.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17496",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-14T00:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17497",
+    "category": "CONCERT",
+    "title": "CHARLIE PUTH WHATEVERS CLEVER WORLD TOUR",
+    "poster_url": "https://images1.smtickets.com/images/portrait_18042026131752.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17497",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-14T00:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-wtc-b8bee7638c66",
+    "category": "EXPO_COMMUNITY",
+    "title": "Manila Fame 2026",
+    "poster_url": "https://www.wtcmanila.com.ph/wp-content/uploads/2026/09/649162541_1401599698679233_1513785182581987003_n.jpg",
+    "venue": {
+      "id": "v-world-trade",
+      "name": "World Trade Center Metro Manila",
+      "chain_or_organizer": "WTC",
+      "city": "metro-manila",
+      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
+      "lat": 14.554,
+      "lng": 120.988
+    },
+    "tags": [
+      "wtc",
+      "expo"
+    ],
+    "booking_url": "https://www.wtcmanila.com.ph/calendar-of-activities/manila-fame-2026/",
+    "updated_at": "2026-09-24T15:45:07.075Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-15T09:00:00+08:00",
+        "end_time": "2026-10-17T18:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17154",
+    "category": "CONCERT",
+    "title": "A1-LOVE IN THE PHILIPPINES TOUR",
+    "poster_url": "https://images1.smtickets.com/images/portrait_04032026163944.jpg",
+    "venue": {
+      "id": "v-unknown-waterfront-cebu-city-hotel-casino",
+      "name": "Waterfront Cebu City Hotel & Casino",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17154",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-16T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1999882413133",
+    "category": "EXPO_COMMUNITY",
+    "title": "Basic MS Excel",
+    "poster_url": "",
+    "venue": {
+      "id": "v-world-trade",
+      "name": "World Trade Center Metro Manila",
+      "chain_or_organizer": "WTC",
+      "city": "metro-manila",
+      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
+      "lat": 14.554,
+      "lng": 120.988
+    },
+    "tags": [
+      "eventbrite",
+      "expo_community"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/basic-ms-excel-tickets-1999882413133",
+    "updated_at": "2026-09-24T15:51:17.894Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-17T08:30:00+08:00",
+        "end_time": "2026-10-17T16:30:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18278",
+    "category": "CONCERT",
+    "title": "ELYUGYUGAN 2026",
+    "poster_url": "https://images1.smtickets.com/images/portrait_15082026092320.jpg",
+    "venue": {
+      "id": "v-unknown-poro-point-baywalk",
+      "name": "PORO POINT BAYWALK",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18278",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-17T16:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18173",
+    "category": "CONCERT",
+    "title": "REGINE VELASQUEZ FINALE",
+    "poster_url": "https://images1.smtickets.com/images/portrait_20072026170420.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18173",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-17T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17153",
+    "category": "CONCERT",
+    "title": "34TH YAKULT 10-MILER MANILA",
+    "poster_url": "https://images1.smtickets.com/images/portrait_04032026141326.jpg",
+    "venue": {
+      "id": "v-unknown-sm-mall-of-asia-complex-pasay-city",
+      "name": "SM Mall Of Asia Complex, Pasay City",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/17153",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-18T02:30:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18178",
+    "category": "CONCERT",
+    "title": "REGINE VELASQUEZ FINALE FREE CONCERT",
+    "poster_url": "https://images1.smtickets.com/images/portrait_22072026164856.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18178",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-18T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18347",
+    "category": "CONCERT",
+    "title": "REGINE VELASQUEZ FINALE - OCT 19",
+    "poster_url": "https://images1.smtickets.com/images/portrait_21082026112251.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18347",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-19T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1990364165799",
+    "category": "COMEDY_THEATER",
+    "title": "Neon Vibes Concert Night 2026",
+    "poster_url": "",
+    "venue": {
+      "id": "v-unknown-neon-vibes-concert-night-2026-where-the-",
+      "name": "Neon Vibes Concert Night 2026—where the beats meet bright li",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "eventbrite",
+      "comedy_theater"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/neon-vibes-concert-night-2026-tickets-1990364165799",
+    "updated_at": "2026-09-24T15:52:40.566Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-20T19:00:00+08:00",
+        "end_time": "2026-10-20T23:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17951",
+    "category": "CONCERT",
+    "title": "FLOW WORLD TOUR 2026 NARUTO THE ROCK IN MANILA",
+    "poster_url": "https://images1.smtickets.com/images/portrait_17062026163943.jpg",
+    "venue": {
+      "id": "v-unknown-skydome-sm-city-north-edsa",
+      "name": "SKYDOME, SM City North Edsa",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17951",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-20T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17976",
+    "category": "CONCERT",
+    "title": "FRA LIPPO LIPPI STITCHES AND BURNS THE PHILIPPINE TOUR - PASSI",
+    "poster_url": "https://images1.smtickets.com/images/portrait_24062026124627.jpg",
+    "venue": {
+      "id": "v-unknown-city-of-passi-arena-city-of-passi-iloilo",
+      "name": "CITY OF PASSI ARENA, CITY OF PASSI ILOILO",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17976",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-23T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17974",
+    "category": "CONCERT",
+    "title": "FRA LIPPO LIPPI STITCHES AND BURNS THE PHILIPPINE TOUR - CEBU",
+    "poster_url": "https://images1.smtickets.com/images/portrait_24062026095652.jpg",
+    "venue": {
+      "id": "v-unknown-waterfront-cebu-city-hotel-casino",
+      "name": "Waterfront Cebu City Hotel & Casino",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17974",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-24T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18099",
+    "category": "CONCERT",
+    "title": "SILENT SANCTUARY GABI NG LAMBING OCT 24",
+    "poster_url": "https://images1.smtickets.com/images/portrait_15072026173437.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18099",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-24T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17973",
+    "category": "CONCERT",
+    "title": "SILENT SANCTUARY GABI NG LAMBING OCT 25",
+    "poster_url": "https://images1.smtickets.com/images/portrait_24062026112152.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17973",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-25T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17638",
+    "category": "CONCERT",
+    "title": "JASON MRAZ ASIA TOUR 2026 IN MANILA",
+    "poster_url": "https://images1.smtickets.com/images/portrait_07052026134133.JPG",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17638",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-27T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-wtc-86408d2fd516",
+    "category": "EXPO_COMMUNITY",
+    "title": "Event Experience Expo 2026",
+    "poster_url": "https://www.wtcmanila.com.ph/wp-content/uploads/2026/09/760939154_122234856566358971_6066618119505061302_n.jpg",
+    "venue": {
+      "id": "v-world-trade",
+      "name": "World Trade Center Metro Manila",
+      "chain_or_organizer": "WTC",
+      "city": "metro-manila",
+      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
+      "lat": 14.554,
+      "lng": 120.988
+    },
+    "tags": [
+      "wtc",
+      "expo"
+    ],
+    "booking_url": "https://www.wtcmanila.com.ph/calendar-of-activities/event-experience-expo-2026/",
+    "updated_at": "2026-09-24T15:45:05.257Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-28T10:00:00+08:00",
+        "end_time": "2026-10-29T18:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1999118156220",
+    "category": "NIGHTLIFE_SOCIAL",
+    "title": "RNB Me HALLOWEEN \"THE HORROR MOVIE\"",
+    "poster_url": "",
+    "venue": {
+      "id": "v-unknown-the-ultimate-halloween-party-costumes-an",
+      "name": "the ultimate Halloween party—costumes and scares included!",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "eventbrite",
+      "nightlife_social"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/rnb-me-halloween-the-horror-movie-tickets-1999118156220",
+    "updated_at": "2026-09-24T15:51:17.894Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-30T22:00:00+08:00",
+        "end_time": "2026-10-31T02:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-2001675284660",
+    "category": "EXPO_COMMUNITY",
+    "title": "HALOFEST DTX",
+    "poster_url": "",
+    "venue": {
+      "id": "v-world-trade",
+      "name": "World Trade Center Metro Manila",
+      "chain_or_organizer": "WTC",
+      "city": "metro-manila",
+      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
+      "lat": 14.554,
+      "lng": 120.988
+    },
+    "tags": [
+      "eventbrite",
+      "expo_community"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/halofest-dtx-tickets-2001675284660",
+    "updated_at": "2026-09-24T15:51:17.894Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-31T20:00:00+08:00",
+        "end_time": "2026-11-01T02:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17219",
+    "category": "CONCERT",
+    "title": "SOFT BY LANY THE WORLD TOUR - CEBU - NOV 6",
+    "poster_url": "https://images1.smtickets.com/images/portrait_28032026091450.jpg",
+    "venue": {
+      "id": "v-unknown-sm-seaside-cebu-arena",
+      "name": "SM Seaside Cebu Arena",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17219",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-06T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17869",
+    "category": "CONCERT",
+    "title": "SOFT BY LANY THE WORLD TOUR - CEBU - NOV 6 UPGRADE",
+    "poster_url": "https://images1.smtickets.com/images/portrait_05062026131825.jpg",
+    "venue": {
+      "id": "v-unknown-sm-seaside-cebu-arena",
+      "name": "SM Seaside Cebu Arena",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17869",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-06T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18416",
+    "category": "CONCERT",
+    "title": "COKE STUDIO 2026",
+    "poster_url": "https://images1.smtickets.com/images/portrait_01092026141145.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18416",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-07T00:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17255",
+    "category": "CONCERT",
+    "title": "SOFT BY LANY THE WORLD TOUR - MANILA - NOV 7",
+    "poster_url": "https://images1.smtickets.com/images/portrait_28032026091618.jpg",
+    "venue": {
+      "id": "v-unknown-philippine-arena",
+      "name": "Philippine Arena",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17255",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-07T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17215",
+    "category": "CONCERT",
+    "title": "SOFT BY LANY THE WORLD TOUR - MANILA - NOV 8",
+    "poster_url": "https://images1.smtickets.com/images/portrait_28032026091636.jpg",
+    "venue": {
+      "id": "v-unknown-philippine-arena",
+      "name": "Philippine Arena",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17215",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-08T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17873",
+    "category": "CONCERT",
+    "title": "SOFT BY LANY THE WORLD TOUR - MANILA - NOV 8 UPGRADE",
+    "poster_url": "https://images1.smtickets.com/images/portrait_06062026093321.jpg",
+    "venue": {
+      "id": "v-unknown-philippine-arena",
+      "name": "Philippine Arena",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17873",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-08T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17639",
+    "category": "CONCERT",
+    "title": "5 SECONDS OF SUMMER EVERYONES A STAR WORLD TOUR ASIA 2026 - NOV 11",
+    "poster_url": "https://images1.smtickets.com/images/portrait_07052026182003.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17639",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-11T00:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17641",
+    "category": "CONCERT",
+    "title": "5 SECONDS OF SUMMER EVERYONES A STAR WORLD TOUR ASIA 2026 - NOV 11 UPGRADE",
+    "poster_url": "https://images1.smtickets.com/images/portrait_08052026113441.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17641",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-11T00:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17643",
+    "category": "CONCERT",
+    "title": "5 SECONDS OF SUMMER EVERYONES A STAR WORLD TOUR ASIA 2026",
+    "poster_url": "https://images1.smtickets.com/images/portrait_08052026095932.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17643",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-12T00:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17506",
+    "category": "CONCERT",
+    "title": "5 SECONDS OF SUMMER EVERYONES A STAR WORLD TOUR ASIA 2026 - NOV 12",
+    "poster_url": "https://images1.smtickets.com/images/portrait_08052026101211.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17506",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-12T00:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17634",
+    "category": "CONCERT",
+    "title": "5 SECONDS OF SUMMER EVERYONES A STAR WORLD TOUR ASIA 2026 - NOV 12 UPGRADE",
+    "poster_url": "https://images1.smtickets.com/images/portrait_08052026101615.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17634",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-12T00:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17270",
+    "category": "CONCERT",
+    "title": "SOFT BY LANY THE WORLD TOUR - CEBU - NOV 12",
+    "poster_url": "https://images1.smtickets.com/images/portrait_27032026182555.jpg",
+    "venue": {
+      "id": "v-unknown-sm-seaside-cebu-arena",
+      "name": "SM Seaside Cebu Arena",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17270",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-12T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17228",
+    "category": "CONCERT",
+    "title": "SOFT BY LANY THE WORLD TOUR",
+    "poster_url": "https://images1.smtickets.com/images/portrait_28032026091313.jpg",
+    "venue": {
+      "id": "v-manila-centroid",
+      "name": "Metro Manila",
+      "city": "metro-manila",
+      "address": "Metro Manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17228",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-14T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17217",
+    "category": "CONCERT",
+    "title": "SOFT BY LANY THE WORLD TOUR - DAVAO",
+    "poster_url": "https://images1.smtickets.com/images/portrait_28032026091854.jpg",
+    "venue": {
+      "id": "v-unknown-crocodile-park-concert-grounds",
+      "name": "Crocodile Park Concert Grounds",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17217",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-14T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18438",
+    "category": "CONCERT",
+    "title": "ASAP XP ISABELA - 12NOON",
+    "poster_url": "https://images1.smtickets.com/images/portrait_13092026145858.jpg",
+    "venue": {
+      "id": "v-unknown-santiago-sports-arena",
+      "name": "SANTIAGO SPORTS ARENA",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18438",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-15T12:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18459",
+    "category": "CONCERT",
+    "title": "ASAP XP ISABELA - 7PM",
+    "poster_url": "https://images1.smtickets.com/images/portrait_13092026145858.jpg",
+    "venue": {
+      "id": "v-unknown-santiago-sports-arena",
+      "name": "SANTIAGO SPORTS ARENA",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18459",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-15T19:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18442",
+    "category": "CONCERT",
+    "title": "ASAP XP ISABELA",
+    "poster_url": "https://images1.smtickets.com/images/portrait_13092026145858.jpg",
+    "venue": {
+      "id": "v-unknown-santiago-sports-arena",
+      "name": "SANTIAGO SPORTS ARENA",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18442",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-15T23:59:59+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1994657088045",
+    "category": "EXPO_COMMUNITY",
+    "title": "CONpawnions",
+    "poster_url": "",
+    "venue": {
+      "id": "v-world-trade",
+      "name": "World Trade Center Metro Manila",
+      "chain_or_organizer": "WTC",
+      "city": "metro-manila",
+      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
+      "lat": 14.554,
+      "lng": 120.988
+    },
+    "tags": [
+      "eventbrite",
+      "expo_community"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/conpawnions-tickets-1994657088045",
+    "updated_at": "2026-09-24T15:50:25.757Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-18T10:00:00+08:00",
+        "end_time": "2026-11-18T12:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1999208965834",
+    "category": "COMEDY_THEATER",
+    "title": "Golden iCON: Touchdowns, Tributes, and the Ultimate Showdown",
+    "poster_url": "",
+    "venue": {
+      "id": "v-world-trade",
+      "name": "World Trade Center Metro Manila",
+      "chain_or_organizer": "WTC",
+      "city": "metro-manila",
+      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
+      "lat": 14.554,
+      "lng": 120.988
+    },
+    "tags": [
+      "eventbrite",
+      "comedy_theater"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/golden-icon-touchdowns-tributes-and-the-ultimate-showdown-tickets-1999208965834",
+    "updated_at": "2026-09-24T15:51:17.894Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-20T12:30:00+08:00",
+        "end_time": "2026-11-20T17:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1994114686708",
+    "category": "COMEDY_THEATER",
+    "title": "Overnight Wellness Retreat",
+    "poster_url": "",
+    "venue": {
+      "id": "v-iloilo-centroid",
+      "name": "Iloilo",
+      "city": "iloilo",
+      "address": "Iloilo",
+      "lat": 10.7202,
+      "lng": 122.5621
+    },
+    "tags": [
+      "eventbrite",
+      "comedy_theater"
+    ],
+    "booking_url": "https://www.eventbrite.hk/e/overnight-wellness-retreat-tickets-1994114686708",
+    "updated_at": "2026-09-24T15:52:40.566Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-21T15:00:00+08:00",
+        "end_time": "2026-11-22T13:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1992509372169",
+    "category": "EXPO_COMMUNITY",
+    "title": "ICEGEX 2026 – 2nd International Ice Cream & Gelato Expo in the Philippines",
+    "poster_url": "",
+    "venue": {
+      "id": "v-world-trade",
+      "name": "World Trade Center Metro Manila",
+      "chain_or_organizer": "WTC",
+      "city": "metro-manila",
+      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
+      "lat": 14.554,
+      "lng": 120.988
+    },
+    "tags": [
+      "eventbrite",
+      "expo_community"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/icegex-2026-2nd-international-ice-cream-gelato-expo-in-the-philippines-tickets-1992509372169",
+    "updated_at": "2026-09-24T15:51:23.249Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-27T10:00:00+08:00",
+        "end_time": "2026-11-29T18:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18177",
+    "category": "CONCERT",
+    "title": "HARANA ACOUSTIC MUSIC FESTIVAL 2026",
+    "poster_url": "https://images1.smtickets.com/images/portrait_03082026105637.jpg",
+    "venue": {
+      "id": "v-unknown-filinvest-city-event-grounds",
+      "name": "Filinvest City, Event Grounds",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18177",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-11-28T14:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18350",
+    "category": "CONCERT",
+    "title": "2026 LE SSERAFIM TOUR PUREFLOW IN MANILA DECEMBER 5",
+    "poster_url": "https://images1.smtickets.com/images/portrait_25082026140214.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18350",
+    "updated_at": "2026-09-24T15:22:25.621Z",
+    "schedules": [
+      {
+        "start_time": "2026-12-05T18:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-18422",
+    "category": "CONCERT",
+    "title": "2026 LE SSERAFIM TOUR PUREFLOW IN MANILA DECEMBER 6",
+    "poster_url": "https://images1.smtickets.com/images/portrait_25082026140214.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/18422",
+    "updated_at": "2026-09-24T15:22:25.622Z",
+    "schedules": [
+      {
+        "start_time": "2026-12-06T17:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17524",
+    "category": "CONCERT",
+    "title": "STAR CITY 2026",
+    "poster_url": "https://images1.smtickets.com/images/portrait_01062026001246.jpg",
+    "venue": {
+      "id": "v-ccp-main",
+      "name": "CCP Main Theater",
+      "chain_or_organizer": "CCP",
+      "city": "metro-manila",
+      "address": "Roxas Blvd, Pasay",
+      "lat": 14.5545,
+      "lng": 120.9858
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17524",
+    "updated_at": "2026-09-24T15:22:25.622Z",
+    "schedules": [
+      {
+        "start_time": "2026-12-31T00:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-9709",
+    "category": "CONCERT",
+    "title": "VIVAMAX",
+    "poster_url": "https://images1.smtickets.com/images/portrait_18012022111541.jpg",
+    "venue": {
+      "id": "v-unknown-online",
+      "name": "Online",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/9709",
+    "updated_at": "2026-09-24T15:22:25.622Z",
+    "schedules": [
+      {
+        "start_time": "2026-12-31T00:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-14448",
+    "category": "CONCERT",
+    "title": "PICKLEBALL",
+    "poster_url": "https://images1.smtickets.com/images/portrait_11042025190738.jpg",
+    "venue": {
+      "id": "v-unknown-sm-venues",
+      "name": "SM VENUES",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "sports"
+    ],
+    "booking_url": "https://smtickets.com/events/14448",
+    "updated_at": "2026-09-24T15:22:25.622Z",
+    "schedules": [
+      {
+        "start_time": "2026-12-31T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-14079",
+    "category": "CONCERT",
+    "title": "FOREVER ENCHANTED",
+    "poster_url": "https://images1.smtickets.com/images/portrait_10042025135905.jpg",
+    "venue": {
+      "id": "v-unknown-enchanted-kingdom-san-lorenzo-south-sta-",
+      "name": "Enchanted Kingdom, San Lorenzo South, Sta. Rosa, Laguna",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/14079",
+    "updated_at": "2026-09-24T15:22:25.622Z",
+    "schedules": [
+      {
+        "start_time": "2026-12-31T23:59:59+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-16432",
+    "category": "CONCERT",
+    "title": "SKY RANCH BAGUIO 2026",
+    "poster_url": "https://images1.smtickets.com/images/portrait_23092020141349.jpg",
+    "venue": {
+      "id": "v-unknown-luneta-hill-upper-session-road-baguio-ci",
+      "name": "Luneta Hill, Upper Session Road, Baguio City",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/16432",
+    "updated_at": "2026-09-24T15:22:25.622Z",
+    "schedules": [
+      {
+        "start_time": "2026-12-31T23:59:59+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-16431",
+    "category": "CONCERT",
+    "title": "SKY RANCH PAMPANGA 2026",
+    "poster_url": "https://images1.smtickets.com/images/portrait_23092020141439.jpg",
+    "venue": {
+      "id": "v-unknown-san-jose-san-fernando-pampanga",
+      "name": "San Jose, San Fernando Pampanga",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/16431",
+    "updated_at": "2026-09-24T15:22:25.622Z",
+    "schedules": [
+      {
+        "start_time": "2026-12-31T23:59:59+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-16430",
+    "category": "CONCERT",
+    "title": "SKY RANCH TAGAYTAY 2026",
+    "poster_url": "https://images1.smtickets.com/images/portrait_23092020141412.jpg",
+    "venue": {
+      "id": "v-unknown-nasugbu-hwy-kaybagal-south-tagaytay-cavi",
+      "name": "Nasugbu Hwy, Kaybagal South, Tagaytay, Cavite",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/16430",
+    "updated_at": "2026-09-24T15:22:25.622Z",
+    "schedules": [
+      {
+        "start_time": "2026-12-31T23:59:59+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1997255894144",
+    "category": "NIGHTLIFE_SOCIAL",
+    "title": "30th Pearl Anniversary BSA & BSC Batch  1997",
+    "poster_url": "",
+    "venue": {
+      "id": "v-iloilo-centroid",
+      "name": "Iloilo",
+      "city": "iloilo",
+      "address": "Iloilo",
+      "lat": 10.7202,
+      "lng": 122.5621
+    },
+    "tags": [
+      "eventbrite",
+      "nightlife_social"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/30th-pearl-anniversary-bsa-bsc-batch-1997-tickets-1997255894144",
+    "updated_at": "2026-09-24T15:52:40.566Z",
+    "schedules": [
+      {
+        "start_time": "2027-01-09T15:00:00+08:00",
+        "end_time": "2027-01-09T23:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17646",
+    "category": "CONCERT",
+    "title": "WESTLIFE 25: THE ANNIVERSARY WORLD TOUR JAN 20",
+    "poster_url": "https://images1.smtickets.com/images/portrait_11052026112635.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17646",
+    "updated_at": "2026-09-24T15:22:25.622Z",
+    "schedules": [
+      {
+        "start_time": "2027-01-20T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17758",
+    "category": "CONCERT",
+    "title": "WESTLIFE 25: THE ANNIVERSARY WORLD TOUR JAN 21",
+    "poster_url": "https://images1.smtickets.com/images/portrait_16052026173136.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17758",
+    "updated_at": "2026-09-24T15:22:25.622Z",
+    "schedules": [
+      {
+        "start_time": "2027-01-21T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1990376486651",
+    "category": "EXPO_COMMUNITY",
+    "title": "CrowdSurge Concert",
+    "poster_url": "",
+    "venue": {
+      "id": "v-iloilo-centroid",
+      "name": "Iloilo",
+      "city": "iloilo",
+      "address": "Iloilo",
+      "lat": 10.7202,
+      "lng": 122.5621
+    },
+    "tags": [
+      "eventbrite",
+      "expo_community"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/crowdsurge-concert-tickets-1990376486651",
+    "updated_at": "2026-09-24T15:52:40.566Z",
+    "schedules": [
+      {
+        "start_time": "2027-02-14T20:00:00+08:00",
+        "end_time": "2027-02-14T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-2002175667318",
+    "category": "EXPO_COMMUNITY",
+    "title": "Revival Global Tour - Philippines 2027",
+    "poster_url": "",
+    "venue": {
+      "id": "v-smx-davao",
+      "name": "SMX Davao",
+      "chain_or_organizer": "SM",
+      "city": "davao",
+      "address": "SM Lanang Premier, Davao",
+      "lat": 7.0985,
+      "lng": 125.6315
+    },
+    "tags": [
+      "eventbrite",
+      "expo_community"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/revival-global-tour-philippines-2027-tickets-2002175667318",
+    "updated_at": "2026-09-24T15:52:13.043Z",
+    "schedules": [
+      {
+        "start_time": "2027-03-16T10:30:00+08:00",
+        "end_time": "2027-03-20T05:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17763",
+    "category": "CONCERT",
+    "title": "THE SCRIPT MAN IN THE ARENA TOUR MARCH 18",
+    "poster_url": "https://images1.smtickets.com/images/portrait_26052026194045.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17763",
+    "updated_at": "2026-09-24T15:22:25.622Z",
+    "schedules": [
+      {
+        "start_time": "2027-03-18T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17768",
+    "category": "CONCERT",
+    "title": "THE SCRIPT MAN IN THE ARENA TOUR MARCH 19",
+    "poster_url": "https://images1.smtickets.com/images/portrait_26052026194127.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17768",
+    "updated_at": "2026-09-24T15:22:25.622Z",
+    "schedules": [
+      {
+        "start_time": "2027-03-19T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17776",
+    "category": "CONCERT",
+    "title": "THE SCRIPT MAN IN THE ARENA TOUR",
+    "poster_url": "https://images1.smtickets.com/images/portrait_28052026101236.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17776",
+    "updated_at": "2026-09-24T15:22:25.622Z",
+    "schedules": [
+      {
+        "start_time": "2027-03-19T23:59:59+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smt-17875",
+    "category": "CONCERT",
+    "title": "THE SCRIPT MAN IN THE ARENA TOUR MARCH 20",
+    "poster_url": "https://images1.smtickets.com/images/portrait_08062026111445.jpg",
+    "venue": {
+      "id": "v-moa-arena",
+      "name": "SM Mall of Asia Arena",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Drive, Mall of Asia Complex, Pasay",
+      "lat": 14.5352,
+      "lng": 120.9822
+    },
+    "tags": [
+      "sm-tickets",
+      "music"
+    ],
+    "booking_url": "https://smtickets.com/events/17875",
+    "updated_at": "2026-09-24T15:22:25.622Z",
+    "schedules": [
+      {
+        "start_time": "2027-03-20T20:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1990235076690",
+    "category": "EXPO_COMMUNITY",
+    "title": "Tiringbanay festival concert",
+    "poster_url": "",
+    "venue": {
+      "id": "v-iloilo-centroid",
+      "name": "Iloilo",
+      "city": "iloilo",
+      "address": "Iloilo",
+      "lat": 10.7202,
+      "lng": 122.5621
+    },
+    "tags": [
+      "eventbrite",
+      "expo_community"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/tiringbanay-festival-concert-tickets-1990235076690",
+    "updated_at": "2026-09-24T15:52:40.566Z",
+    "schedules": [
+      {
+        "start_time": "2027-05-30T20:00:00+08:00",
+        "end_time": "2027-05-30T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1982911509704",
+    "category": "COMEDY_THEATER",
+    "title": "HCHS Batch84 GRAND REUNION 2027",
+    "poster_url": "",
+    "venue": {
+      "id": "v-unknown-the-hchs-batch84-grand-reunion-2027",
+      "name": "the HCHS Batch84 GRAND REUNION 2027!",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "eventbrite",
+      "comedy_theater"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/hchs-batch84-grand-reunion-2027-tickets-1982911509704",
+    "updated_at": "2026-09-24T15:52:56.027Z",
+    "schedules": [
+      {
+        "start_time": "2027-08-27T15:00:00+08:00",
+        "end_time": "2027-08-29T16:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-eb-1979688064292",
+    "category": "EXPO_COMMUNITY",
+    "title": "Drink Philippines: The National Bar and Beverage Expo 2027",
+    "poster_url": "",
+    "venue": {
+      "id": "v-unknown-dpbbex-2027",
+      "name": "DPBBEX 2027!",
+      "city": "metro-manila",
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    "tags": [
+      "eventbrite",
+      "expo_community"
+    ],
+    "booking_url": "https://www.eventbrite.com/e/drink-philippines-the-national-bar-and-beverage-expo-2027-tickets-1979688064292",
+    "updated_at": "2026-09-24T15:52:19.108Z",
+    "schedules": [
+      {
+        "start_time": "2027-10-07T09:00:00+08:00",
+        "end_time": "2027-10-09T00:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  }
+]

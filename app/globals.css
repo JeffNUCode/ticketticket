@@ -32,7 +32,8 @@
 
   body {
     @apply min-h-dvh bg-neutral-950 text-white;
-    background-image: radial-gradient(rgba(59, 31, 217, 0.22) 1px, transparent 1px);
+    /* Soft ink lattice — brand color, low enough not to read as generic dark SaaS wallpaper. */
+    background-image: radial-gradient(rgba(59, 31, 217, 0.10) 1px, transparent 1px);
     background-size: 28px 22px;
     background-attachment: fixed;
   }

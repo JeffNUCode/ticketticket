@@ -5,10 +5,13 @@ const SCREENS: ScreenType[] = ["2D", "3D", "IMAX", "Director's Club"];
 /** PH and TH have no DST, so a fixed offset is correct (not a shortcut). */
 const CITY_OFFSET: Record<CitySlug, string> = {
   "metro-manila": "+08:00",
-  cebu: "+08:00",
-  davao: "+08:00",
   cavite: "+08:00",
-  bangkok: "+07:00",
+  "north-luzon": "+08:00",
+  "south-luzon": "+08:00",
+  cebu: "+08:00",
+  visayas: "+08:00",
+  davao: "+08:00",
+  mindanao: "+08:00",
 };
 
 export function cityOffset(city: CitySlug) {
@@ -180,4 +183,15 @@ export function normalizeTitle(title: string) {
     .toLowerCase()
     .normalize("NFKD")
     .replace(/[^a-z0-9]+/g, "");
+}
+
+export function matchesCinema(
+  cinema: { mall: string; name: string; address: string; chain: string },
+  query: string,
+) {
+  const q = normalizeTitle(query);
+  if (!q) return true;
+  return [cinema.mall, cinema.name, cinema.address, cinema.chain].some((s) =>
+    normalizeTitle(s).includes(q),
+  );
 }

@@ -66,8 +66,4 @@ export function missingMovieIds(showtimes: ShowtimeRow[], known: { id: string }[
   return [...new Set(showtimes.map((s) => s.movie_id))].filter((id) => !have.has(id));
 }
 
-export const OFFICIAL_BOOKERS = [
-  { chain: "SM Cinema", url: "https://www.smcinema.com/" },
-  { chain: "Ayala Malls", url: "https://www.sureseats.com/" },
-  { chain: "Robinsons", url: "https://www.robinsonsmovieworld.com/" },
-] as const;
+export { OFFICIAL_BOOKERS } from "./bookers";

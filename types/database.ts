@@ -1,8 +1,27 @@
 export type ScreenType = "2D" | "3D" | "IMAX" | "Director's Club";
 
-export type CinemaChain = "SM Cinema" | "Ayala Malls" | "Robinsons" | "Megaworld";
+export type CinemaChain =
+  | "SM Cinema"
+  | "Ayala Malls"
+  | "Robinsons"
+  | "Megaworld"
+  | "Vista Cinemas"
+  | "Gateway Cineplex"
+  | "Power Plant"
+  | "Fisher Mall";
 
-export type CitySlug = "metro-manila" | "cebu" | "davao" | "cavite" | "bangkok";
+export type CitySlug =
+  | "metro-manila"
+  | "cavite"
+  | "north-luzon"
+  | "south-luzon"
+  | "cebu"
+  | "visayas"
+  | "davao"
+  | "mindanao";
+
+/** Picker / URL value — includes nationwide "all". Inventory rows stay on CitySlug. */
+export type LocationFilterId = "all" | CitySlug;
 
 export interface UserRow {
   id: string;
@@ -47,6 +66,10 @@ export interface ShowtimeRow {
   screen_type: ScreenType;
   start_time: string;
   price: number | null;
+  /**
+   * The cinema's own booking page — NOT a per-showtime deep link. No PH chain exposes one,
+   * so the UI must say "continue on their site", never "open this showtime".
+   */
   booking_direct_url: string;
   updated_at: string;
 }

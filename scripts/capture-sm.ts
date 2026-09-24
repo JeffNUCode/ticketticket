@@ -15,7 +15,8 @@
  */
 import "./env";
 import { randomUUID } from "crypto";
-import { chromium, type APIRequestContext, type Page } from "playwright-core";
+import { type APIRequestContext, type Page } from "playwright-core";
+import { launchBrowser, UA } from "./browser";
 import { SEED } from "../lib/seed";
 import type { InventoryShow } from "../lib/inventory";
 import { createTitleMatcher } from "./match-title";
@@ -24,8 +25,8 @@ import type { CinemaRow, ScreenType } from "../types/database";
 
 const API = "https://digital-api.smcinema.com/ocapi/v1";
 const SM_SITE = /smcinema\.com\/sites\//;
-const UA =
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36";
+/** Known-good page used only to mint the OCAPI token. Capture then queries every site by id. */
+const BOOT = "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402";
 
 type Named = { text: string };
 type OcapiShowtime = {
@@ -69,21 +70,6 @@ function screenType(show: OcapiShowtime, screenName: string): ScreenType {
   return show.requires3dGlasses ? "3D" : "2D";
 }
 
-/**
- * Drives a browser already on the machine (Windows always has Edge), so there is no
- * `playwright install` step and no ~140MB download per Playwright release.
- */
-async function launchBrowser() {
-  for (const channel of ["chrome", "msedge", "chromium"]) {
-    try {
-      return await chromium.launch({ channel });
-    } catch {
-      /* not installed — try the next one */
-    }
-  }
-  throw new Error("no Chrome, Edge or Chromium found — install one, or set CHROME_PATH");
-}
-
 /** Opens the site page and returns an API context carrying the page's own auth header. */
 async function authorize(page: Page, url: string) {
   const seen = page.waitForRequest((r) => r.url().includes("/ocapi/"), { timeout: 90_000 });
@@ -102,14 +88,13 @@ async function getJson<T>(api: APIRequestContext, path: string, auth: string): P
 }
 
 async function captureCinema(
-  page: Page,
+  api: APIRequestContext,
+  auth: string,
   cinema: CinemaRow,
   days: number,
   match: (title: string) => Promise<string | null>,
 ) {
   const siteId = siteIdOf(cinema);
-  const auth = await authorize(page, cinema.website_booking_url);
-  const api = page.request;
 
   const dates = await getJson<DatesResponse>(
     api,
@@ -168,11 +153,15 @@ async function inspect(page: Page, cinema: CinemaRow) {
 }
 
 async function main() {
-  const sites = SEED.cinemas.filter((c) => SM_SITE.test(c.website_booking_url));
-  if (sites.length === 0) throw new Error("no SM site URLs in SEED.cinemas");
+  const sites = SEED.cinemas.filter((c) => c.chain === "SM Cinema" && SM_SITE.test(c.website_booking_url));
+  if (sites.length === 0) throw new Error("no SM site URLs in catalog");
+
+  const only = process.argv.find((a) => a.startsWith("--only="))?.split("=")[1];
+  const picked = only ? sites.filter((c) => c.id === only || c.id.endsWith(only) || siteIdOf(c) === only) : sites;
+  if (picked.length === 0) throw new Error(`--only=${only} matched no SM cinema`);
 
   const inspecting = process.argv.includes("--inspect");
-  const days = arg("days", 30);
+  const days = arg("days", 7);
   const match = inspecting ? async () => null : await createTitleMatcher();
 
   const browser = await launchBrowser();
@@ -183,13 +172,15 @@ async function main() {
   const unmatched: string[] = [];
 
   try {
-    for (const cinema of sites) {
+    if (inspecting) {
+      await inspect(page, picked[0]);
+      return;
+    }
+    const auth = await authorize(page, BOOT);
+    const api = page.request;
+    for (const cinema of picked) {
       console.log(`\n${cinema.id} — ${cinema.mall}`);
-      if (inspecting) {
-        await inspect(page, cinema);
-        continue;
-      }
-      const got = await captureCinema(page, cinema, days, match);
+      const got = await captureCinema(api, auth, cinema, days, match);
       rows.push(...got.rows);
       touched.push(...got.touched);
       unmatched.push(...got.unmatched);
@@ -201,10 +192,11 @@ async function main() {
   if (inspecting) return;
 
   if (unmatched.length) {
-    console.error("\nno TMDB match — nothing written:");
-    [...new Set(unmatched)].forEach((t) => console.error(`  "${t}"`));
-    process.exit(1);
+    console.warn(`\nskipped ${new Set(unmatched).size} title(s) with no TMDB match:`);
+    [...new Set(unmatched)].forEach((t) => console.warn(`  "${t}"`));
   }
+
+  if (rows.length === 0) throw new Error("captured 0 showtimes");
 
   const total = await mergeAndWrite(rows, touched);
   console.log(`\ncaptured ${rows.length} showtimes across ${touched.length} cinema-day(s)`);

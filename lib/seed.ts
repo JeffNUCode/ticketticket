@@ -5,6 +5,8 @@ import type {
   MovieRow,
   ShowtimeRow,
 } from "@/types/database";
+import smCinemas from "@/data/sm-cinemas.json";
+import partnerCinemas from "@/data/partner-cinemas.json";
 
 function at(dayOffset: number, hour: number, minute = 0) {
   const d = new Date();
@@ -132,127 +134,8 @@ export const SEED = {
   ] satisfies MovieRow[],
 
   cinemas: [
-    {
-      id: "c-sm-mega",
-      name: "SM Megamall Cinema",
-      chain: "SM Cinema",
-      city: "metro-manila",
-      mall: "SM Megamall",
-      address: "EDSA cor. Doña Julia Vargas, Mandaluyong",
-      latitude: 14.584,
-      longitude: 121.0563,
-      website_booking_url: "https://www.smcinema.com/",
-    },
-    {
-      id: "c-sm-moa",
-      name: "SM Mall of Asia IMAX",
-      chain: "SM Cinema",
-      city: "metro-manila",
-      mall: "SM Mall of Asia",
-      address: "Seaside Blvd, Pasay",
-      latitude: 14.5352,
-      longitude: 120.9822,
-      website_booking_url: "https://www.smcinema.com/",
-    },
-    {
-      id: "c-ayala-gc",
-      name: "Greenbelt Cinema",
-      chain: "Ayala Malls",
-      city: "metro-manila",
-      mall: "Greenbelt 3",
-      address: "Paseo de Roxas, Makati",
-      latitude: 14.5515,
-      longitude: 121.0233,
-      website_booking_url: "https://www.sureseats.com/",
-    },
-    {
-      id: "c-ayala-bgc",
-      name: "Ayala Malls Manila Bay",
-      chain: "Ayala Malls",
-      city: "metro-manila",
-      mall: "Ayala Malls Manila Bay",
-      address: "Diosdado Macapagal Blvd, Parañaque",
-      latitude: 14.5186,
-      longitude: 120.991,
-      website_booking_url: "https://www.sureseats.com/",
-    },
-    {
-      id: "c-rob-galleria",
-      name: "Robinsons Galleria",
-      chain: "Robinsons",
-      city: "metro-manila",
-      mall: "Robinsons Galleria",
-      address: "EDSA cor. Ortigas Ave, Quezon City",
-      latitude: 14.5916,
-      longitude: 121.0583,
-      website_booking_url: "https://www.robinsonsmovieworld.com/",
-    },
-    {
-      id: "c-mega-u",
-      name: "Uptown Cinemas",
-      chain: "Megaworld",
-      city: "metro-manila",
-      mall: "Uptown Mall BGC",
-      address: "9th Ave, Taguig",
-      latitude: 14.5573,
-      longitude: 121.0484,
-      website_booking_url: "https://www.megaworldcinemas.com/",
-    },
-    {
-      id: "c-sm-dasma",
-      name: "SM Dasmariñas Cinema",
-      chain: "SM Cinema",
-      city: "cavite",
-      mall: "SM City Dasmariñas",
-      address: "Governor's Drive, Brgy. Sampalok 1, Dasmariñas, Cavite",
-      latitude: 14.3274,
-      longitude: 120.9597,
-      website_booking_url: "https://www.smcinema.com/sites/SM-City-Dasmarinas/2402",
-    },
-    {
-      id: "c-sm-cebu",
-      name: "SM Cebu Cinema",
-      chain: "SM Cinema",
-      city: "cebu",
-      mall: "SM City Cebu",
-      address: "North Reclamation Area, Cebu City",
-      latitude: 10.3118,
-      longitude: 123.9185,
-      website_booking_url: "https://www.smcinema.com/",
-    },
-    {
-      id: "c-ayala-cebu",
-      name: "Ayala Center Cebu",
-      chain: "Ayala Malls",
-      city: "cebu",
-      mall: "Ayala Center Cebu",
-      address: "Cebu Business Park",
-      latitude: 10.3181,
-      longitude: 123.9054,
-      website_booking_url: "https://www.sureseats.com/",
-    },
-    {
-      id: "c-sm-davao",
-      name: "SM Lanang Premier",
-      chain: "SM Cinema",
-      city: "davao",
-      mall: "SM Lanang Premier",
-      address: "J.P. Laurel Ave, Davao City",
-      latitude: 7.0989,
-      longitude: 125.631,
-      website_booking_url: "https://www.smcinema.com/",
-    },
-    {
-      id: "c-bkk-siam",
-      name: "Paragon Cineplex",
-      chain: "Ayala Malls",
-      city: "bangkok",
-      mall: "Siam Paragon",
-      address: "Rama I Rd, Pathum Wan, Bangkok",
-      latitude: 13.7466,
-      longitude: 100.5347,
-      website_booking_url: "https://www.majorcineplex.com/",
-    },
+    ...(smCinemas as CinemaRow[]),
+    ...(partnerCinemas as CinemaRow[]),
   ] satisfies CinemaRow[],
 
   showtimes: [] as ShowtimeRow[],
@@ -281,7 +164,7 @@ export const SEED = {
       business_name: "Wildflour Greenbelt",
       promo_text: "Director's Club ticket holders get complimentary dessert with dinner.",
       offer_code: null,
-      link: "https://www.sureseats.com/",
+      link: "https://www.ayalaallaccess.com/",
       expires_at: at(10, 23, 59),
     },
     {
@@ -330,23 +213,25 @@ const SLOTS: { movie: string; cinema: string; format: ShowtimeRow["screen_type"]
   { movie: "m-dune", cinema: "c-sm-cebu", format: "IMAX", day: 0, hour: 18, price: 480 },
   { movie: "m-wicked", cinema: "c-ayala-cebu", format: "2D", day: 0, hour: 16, price: 310 },
   { movie: "m-inside", cinema: "c-sm-davao", format: "2D", day: 0, hour: 15, price: 270 },
-  { movie: "m-dune", cinema: "c-bkk-siam", format: "IMAX", day: 0, hour: 19, price: 450 },
   { movie: "m-deadpool", cinema: "c-sm-mega", format: "2D", day: 1, hour: 20, price: 340 },
   { movie: "m-wicked", cinema: "c-sm-moa", format: "IMAX", day: 1, hour: 16, price: 540 },
   { movie: "m-flow", cinema: "c-rob-galleria", format: "2D", day: 1, hour: 14, price: 280 },
   { movie: "m-dune", cinema: "c-sm-mega", format: "2D", day: 1, hour: 21, price: 320 },
 ];
 
-SEED.showtimes = SLOTS.map((s, i) => {
-  const cinema = SEED.cinemas.find((c) => c.id === s.cinema)!;
-  return {
-    id: `st-${i + 1}`,
-    movie_id: s.movie,
-    cinema_id: s.cinema,
-    screen_type: s.format,
-    start_time: at(s.day, s.hour),
-    price: s.price,
-    booking_direct_url: `${cinema.website_booking_url}?ref=gosee&movie=${s.movie}`,
-    updated_at: new Date().toISOString(),
-  };
+SEED.showtimes = SLOTS.flatMap((s, i) => {
+  const cinema = SEED.cinemas.find((c) => c.id === s.cinema);
+  if (!cinema) return [];
+  return [
+    {
+      id: `st-${i + 1}`,
+      movie_id: s.movie,
+      cinema_id: s.cinema,
+      screen_type: s.format,
+      start_time: at(s.day, s.hour),
+      price: s.price,
+      booking_direct_url: `${cinema.website_booking_url}?ref=gosee&movie=${s.movie}`,
+      updated_at: new Date().toISOString(),
+    },
+  ];
 });
