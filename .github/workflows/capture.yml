@@ -23,19 +23,26 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
           cache: npm
 
       - run: npm ci
 
-      # playwright-core needs a real Chrome binary; bundle Chromium for the runner.
+      # Use the locked playwright-core CLI so browser version matches the package.
       - name: Install Chromium
-        run: npx --yes playwright install --with-deps chromium
+        run: node node_modules/playwright-core/cli.js install --with-deps chromium
 
       - name: Capture showtimes + events
         id: capture
         continue-on-error: true
+        env:
+          # Repo → Settings → Secrets → Actions → New secret: TMDB_API_KEY
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
+          if [ -z "$TMDB_API_KEY" ]; then
+            echo "::error::TMDB_API_KEY secret is missing — cinema capture will 401"
+            exit 1
+          fi
           export CHROME_PATH="$(node -e "console.log(require('playwright-core').chromium.executablePath())")"
           echo "Using $CHROME_PATH"
           npm run capture
