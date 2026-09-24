@@ -1,0 +1,52 @@
+# Midnight Asia/Manila inventory refresh (showtimes + events).
+# GitHub cron is UTC-only: 16:00 UTC = 00:00 PHT.
+name: Nightly capture
+
+on:
+  schedule:
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: nightly-capture
+  cancel-in-progress: false
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - run: npm ci
+
+      # playwright-core needs a real Chrome binary; bundle Chromium for the runner.
+      - name: Install Chromium
+        run: npx --yes playwright install --with-deps chromium
+
+      - name: Capture showtimes + events
+        id: capture
+        continue-on-error: true
+        run: |
+          export CHROME_PATH="$(node -e "console.log(require('playwright-core').chromium.executablePath())")"
+          echo "Using $CHROME_PATH"
+          npm run capture
+
+      # Keep partial wins — one chain failing shouldn't throw away the rest.
+      - name: Commit refreshed inventory
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: nightly inventory capture"
+          file_pattern: data/*.json
+
+      - name: Fail if capture errored
+        if: steps.capture.outcome == 'failure'
+        run: exit 1
