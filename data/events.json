@@ -54,84 +54,29 @@
     ]
   },
   {
-    "id": "evt-wtc-fb6e1695759d",
-    "category": "EXPO_COMMUNITY",
-    "title": "Lalala Fest Manila",
-    "poster_url": "https://www.wtcmanila.com.ph/wp-content/uploads/2026/06/716762856_122102670321328526_3984399793111701759_n.jpg",
-    "venue": {
-      "id": "v-world-trade",
-      "name": "World Trade Center Metro Manila",
-      "chain_or_organizer": "WTC",
-      "city": "metro-manila",
-      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
-      "lat": 14.554,
-      "lng": 120.988
-    },
-    "tags": [
-      "wtc",
-      "expo"
-    ],
-    "booking_url": "https://www.wtcmanila.com.ph/calendar-of-activities/lalala-fest-manila/",
-    "updated_at": "2026-09-24T18:22:41.697Z",
-    "schedules": [
-      {
-        "start_time": "2026-08-21T12:00:00+08:00",
-        "ticket_status": "AVAILABLE"
-      }
-    ]
-  },
-  {
     "id": "evt-ccp-a70dac3e467e",
     "category": "COMEDY_THEATER",
     "title": "THIRTEEN ARTISTS AWARDS WEBSITE RELAUNCH",
     "poster_url": "",
     "venue": {
-      "id": "v-samsung-pat",
-      "name": "Samsung Performing Arts Theater",
+      "id": "v-ccp-main",
+      "name": "CCP Main Theater",
       "chain_or_organizer": "CCP",
       "city": "metro-manila",
-      "address": "Circuit Makati, Makati",
-      "lat": 14.5628,
-      "lng": 121.0145
+      "address": "Roxas Blvd, Pasay",
+      "lat": 14.5545,
+      "lng": 120.9858
     },
     "tags": [
       "ccp",
       "comedy_theater"
     ],
     "booking_url": "https://culturalcenter.gov.ph/event/thirteen-artists-awards-website-relaunch/",
-    "updated_at": "2026-09-24T18:23:05.992Z",
+    "updated_at": "2026-09-25T20:15:48.825Z",
     "schedules": [
       {
         "start_time": "2026-08-31T19:30:00+08:00",
-        "screen_or_hall": "CCP @ the Samsung Performing Arts Theater",
-        "ticket_status": "AVAILABLE"
-      }
-    ]
-  },
-  {
-    "id": "evt-wtc-3bc57c6fd558",
-    "category": "EXPO_COMMUNITY",
-    "title": "Asia Food Expo Afex 2026",
-    "poster_url": "https://www.wtcmanila.com.ph/wp-content/uploads/2026/08/596807130_779909231770070_2358255814322737907_n.png",
-    "venue": {
-      "id": "v-world-trade",
-      "name": "World Trade Center Metro Manila",
-      "chain_or_organizer": "WTC",
-      "city": "metro-manila",
-      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
-      "lat": 14.554,
-      "lng": 120.988
-    },
-    "tags": [
-      "wtc",
-      "expo"
-    ],
-    "booking_url": "https://www.wtcmanila.com.ph/calendar-of-activities/asia-food-expo-afex-2026/",
-    "updated_at": "2026-09-24T18:22:42.747Z",
-    "schedules": [
-      {
-        "start_time": "2026-09-09T10:00:00+08:00",
-        "end_time": "2026-09-12T18:00:00+08:00",
+        "screen_or_hall": "Various CCP Venues",
         "ticket_status": "AVAILABLE"
       }
     ]
@@ -154,7 +99,7 @@
       "comedy_theater"
     ],
     "booking_url": "https://culturalcenter.gov.ph/event/federation-for-asian-cultural-promotion-facp-annual-conference-2026/",
-    "updated_at": "2026-09-24T18:23:08.559Z",
+    "updated_at": "2026-09-25T20:15:51.867Z",
     "schedules": [
       {
         "start_time": "2026-09-09T19:30:00+08:00",
@@ -182,7 +127,7 @@
       "comedy_theater"
     ],
     "booking_url": "https://culturalcenter.gov.ph/event/manila-international-performing-arts-market-mipam-2026/",
-    "updated_at": "2026-09-24T18:23:11.071Z",
+    "updated_at": "2026-09-25T20:15:54.763Z",
     "schedules": [
       {
         "start_time": "2026-09-11T19:30:00+08:00",
@@ -210,67 +155,11 @@
       "comedy_theater"
     ],
     "booking_url": "https://culturalcenter.gov.ph/event/paglalakbay-1001-nights-by-ballet-philippines/",
-    "updated_at": "2026-09-24T18:23:13.542Z",
+    "updated_at": "2026-09-25T20:15:57.482Z",
     "schedules": [
       {
         "start_time": "2026-09-11T20:00:00+08:00",
         "screen_or_hall": "The Theatre at Solaire",
-        "ticket_status": "AVAILABLE"
-      }
-    ]
-  },
-  {
-    "id": "evt-wtc-38a3dbb573aa",
-    "category": "EXPO_COMMUNITY",
-    "title": "Purveyr Fair 2026",
-    "poster_url": "https://www.wtcmanila.com.ph/wp-content/uploads/2026/08/727346341_1454938923335785_5870904479667255466_n.jpg",
-    "venue": {
-      "id": "v-world-trade",
-      "name": "World Trade Center Metro Manila",
-      "chain_or_organizer": "WTC",
-      "city": "metro-manila",
-      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
-      "lat": 14.554,
-      "lng": 120.988
-    },
-    "tags": [
-      "wtc",
-      "expo"
-    ],
-    "booking_url": "https://www.wtcmanila.com.ph/calendar-of-activities/purveyr-fair-2026/",
-    "updated_at": "2026-09-24T18:22:43.810Z",
-    "schedules": [
-      {
-        "start_time": "2026-09-12T11:00:00+08:00",
-        "end_time": "2026-09-13T18:00:00+08:00",
-        "ticket_status": "AVAILABLE"
-      }
-    ]
-  },
-  {
-    "id": "evt-wtc-c23241245286",
-    "category": "EXPO_COMMUNITY",
-    "title": "Transport Logistics Philippines 2026",
-    "poster_url": "https://www.wtcmanila.com.ph/wp-content/uploads/2026/08/653036683_1541737201293405_3007390836490799226_n.png",
-    "venue": {
-      "id": "v-world-trade",
-      "name": "World Trade Center Metro Manila",
-      "chain_or_organizer": "WTC",
-      "city": "metro-manila",
-      "address": "Sen. Gil J. Puyat Ave. cor. Diosdado Macapagal Blvd., Pasay",
-      "lat": 14.554,
-      "lng": 120.988
-    },
-    "tags": [
-      "wtc",
-      "expo"
-    ],
-    "booking_url": "https://www.wtcmanila.com.ph/calendar-of-activities/transport-logistics-philippines-2026/",
-    "updated_at": "2026-09-24T18:22:44.856Z",
-    "schedules": [
-      {
-        "start_time": "2026-09-16T10:00:00+08:00",
-        "end_time": "2026-09-18T18:00:00+08:00",
         "ticket_status": "AVAILABLE"
       }
     ]
@@ -294,7 +183,7 @@
       "comedy_theater"
     ],
     "booking_url": "https://culturalcenter.gov.ph/event/tanghalang-pilipinos-sayaw-ng-mga-ilaw/",
-    "updated_at": "2026-09-24T18:22:57.030Z",
+    "updated_at": "2026-09-25T20:15:41.096Z",
     "schedules": [
       {
         "start_time": "2026-09-18T15:00:00+08:00",
@@ -321,7 +210,7 @@
       "comedy_theater"
     ],
     "booking_url": "https://culturalcenter.gov.ph/event/pagdiriwang-sa-ue-ppo-outreach-concert-at-the-university-of-the-east/",
-    "updated_at": "2026-09-24T18:23:16.254Z",
+    "updated_at": "2026-09-25T20:16:00.221Z",
     "schedules": [
       {
         "start_time": "2026-09-18T17:00:00+08:00",
@@ -347,7 +236,7 @@
       "comedy_theater"
     ],
     "booking_url": "https://culturalcenter.gov.ph/event/passion-and-purpose/",
-    "updated_at": "2026-09-24T18:23:18.796Z",
+    "updated_at": "2026-09-25T20:16:02.999Z",
     "schedules": [
       {
         "start_time": "2026-09-20T18:00:00+08:00",
@@ -375,7 +264,7 @@
       "expo"
     ],
     "booking_url": "https://www.smxconventioncenter.com/events/40th-negros-trade-fair-2/",
-    "updated_at": "2026-09-24T18:24:12.542Z",
+    "updated_at": "2026-09-25T20:17:07.533Z",
     "schedules": [
       {
         "start_time": "2026-09-22T10:00:00+08:00",
@@ -404,7 +293,7 @@
       "expo"
     ],
     "booking_url": "https://www.smxconventioncenter.com/events/28th-likha-ng-central-luzon-trade-fair/",
-    "updated_at": "2026-09-24T18:24:25.973Z",
+    "updated_at": "2026-09-25T20:17:29.052Z",
     "schedules": [
       {
         "start_time": "2026-09-23T10:00:00+08:00",
@@ -433,70 +322,12 @@
       "expo"
     ],
     "booking_url": "https://www.smxconventioncenter.com/events/psychological-association-of-the-philippines-inc-national-convention/",
-    "updated_at": "2026-09-24T18:24:28.942Z",
+    "updated_at": "2026-09-25T20:17:32.035Z",
     "schedules": [
       {
         "start_time": "2026-09-24T08:00:00+08:00",
         "end_time": "2026-09-25T20:00:00+08:00",
         "screen_or_hall": "SMX Davao",
-        "ticket_status": "AVAILABLE"
-      }
-    ]
-  },
-  {
-    "id": "evt-smx-315cc7d487fa",
-    "category": "EXPO_COMMUNITY",
-    "title": "2nd Philippine Construction and Building Materials Expo and Philippine Power, Solar, and Electrical Expo 2026",
-    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
-    "venue": {
-      "id": "v-smx",
-      "name": "SMX Convention Center Manila",
-      "chain_or_organizer": "SM",
-      "city": "metro-manila",
-      "address": "Seashell Lane, Mall of Asia Complex, Pasay",
-      "lat": 14.5365,
-      "lng": 120.9835
-    },
-    "tags": [
-      "smx",
-      "expo"
-    ],
-    "booking_url": "https://www.smxconventioncenter.com/events/2nd-philippine-construction-and-building-materials-expo-and-philippine-power-solar-and-electrical-expo-2026/",
-    "updated_at": "2026-09-24T18:23:58.618Z",
-    "schedules": [
-      {
-        "start_time": "2026-09-24T09:00:00+08:00",
-        "end_time": "2026-09-25T20:00:00+08:00",
-        "screen_or_hall": "SMX Manila",
-        "ticket_status": "AVAILABLE"
-      }
-    ]
-  },
-  {
-    "id": "evt-smx-4b29b7b81da4",
-    "category": "EXPO_COMMUNITY",
-    "title": "NADTI Trade Exhibit",
-    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
-    "venue": {
-      "id": "v-smx",
-      "name": "SMX Convention Center Manila",
-      "chain_or_organizer": "SM",
-      "city": "metro-manila",
-      "address": "Seashell Lane, Mall of Asia Complex, Pasay",
-      "lat": 14.5365,
-      "lng": 120.9835
-    },
-    "tags": [
-      "smx",
-      "expo"
-    ],
-    "booking_url": "https://www.smxconventioncenter.com/events/nadti-trade-exhibit-3/",
-    "updated_at": "2026-09-24T18:24:01.539Z",
-    "schedules": [
-      {
-        "start_time": "2026-09-24T09:00:00+08:00",
-        "end_time": "2026-09-24T20:00:00+08:00",
-        "screen_or_hall": "SMX Manila",
         "ticket_status": "AVAILABLE"
       }
     ]
@@ -520,7 +351,7 @@
       "expo"
     ],
     "booking_url": "https://www.wtcmanila.com.ph/calendar-of-activities/world-pet-expo-2026/",
-    "updated_at": "2026-09-24T18:22:45.906Z",
+    "updated_at": "2026-09-25T20:15:26.422Z",
     "schedules": [
       {
         "start_time": "2026-09-24T10:00:00+08:00",
@@ -601,7 +432,7 @@
       "concert"
     ],
     "booking_url": "https://culturalcenter.gov.ph/event/philippine-philharmonic-orchestra-modulatio-the-ppos-42nd-concert-season/",
-    "updated_at": "2026-09-24T18:22:57.031Z",
+    "updated_at": "2026-09-25T20:15:41.097Z",
     "schedules": [
       {
         "start_time": "2026-09-25T19:30:00+08:00",
@@ -612,7 +443,7 @@
   },
   {
     "id": "evt-ccp-90c965ab682a",
-    "category": "CONCERT",
+    "category": "COMEDY_THEATER",
     "title": "PHILIPPINE PHILHARMONIC ORCHESTRA “MODULATIO” – The PPO’s 42nd Concert Season Concert I: “Da Capo”",
     "poster_url": "",
     "venue": {
@@ -626,10 +457,10 @@
     },
     "tags": [
       "ccp",
-      "concert"
+      "comedy_theater"
     ],
     "booking_url": "https://culturalcenter.gov.ph/event/philippine-philharmonic-orchestra-modulatio-the-ppos-42nd-concert-season-concert-i-da-capo/",
-    "updated_at": "2026-09-24T18:22:57.030Z",
+    "updated_at": "2026-09-25T20:16:05.712Z",
     "schedules": [
       {
         "start_time": "2026-09-25T19:30:00+08:00",
@@ -742,7 +573,7 @@
     "id": "evt-smx-38d66c0c4da6",
     "category": "EXPO_COMMUNITY",
     "title": "JDM Underground YN (Yabangan Noons/Nights)",
-    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/uploads/2025/11/SMXCC.1-scaled.png",
     "venue": {
       "id": "v-smx",
       "name": "SMX Convention Center Manila",
@@ -757,7 +588,7 @@
       "expo"
     ],
     "booking_url": "https://www.smxconventioncenter.com/events/jdm-underground-yn-yabangan-noons-nights/",
-    "updated_at": "2026-09-24T18:24:04.942Z",
+    "updated_at": "2026-09-25T20:16:45.630Z",
     "schedules": [
       {
         "start_time": "2026-09-26T09:00:00+08:00",
@@ -786,7 +617,7 @@
       "expo"
     ],
     "booking_url": "https://www.smxconventioncenter.com/events/47th-wedding-expo-philippines/",
-    "updated_at": "2026-09-24T18:24:08.399Z",
+    "updated_at": "2026-09-25T20:16:48.610Z",
     "schedules": [
       {
         "start_time": "2026-09-26T10:00:00+08:00",
@@ -1046,7 +877,7 @@
       "expo"
     ],
     "booking_url": "https://www.smxconventioncenter.com/events/national-convention-mother-butler-mission-guilds-2/",
-    "updated_at": "2026-09-24T18:24:18.917Z",
+    "updated_at": "2026-09-25T20:17:23.210Z",
     "schedules": [
       {
         "start_time": "2026-09-27T08:00:00+08:00",
@@ -1280,7 +1111,7 @@
       "expo"
     ],
     "booking_url": "https://www.smxconventioncenter.com/events/national-convention-mother-butler-mission-guilds/",
-    "updated_at": "2026-09-24T18:24:21.782Z",
+    "updated_at": "2026-09-25T20:17:24.529Z",
     "schedules": [
       {
         "start_time": "2026-09-28T08:00:00+08:00",
@@ -1437,7 +1268,7 @@
       "expo"
     ],
     "booking_url": "https://www.smxconventioncenter.com/events/blue-economy-annual-trade-and-conference-beacon-2026/",
-    "updated_at": "2026-09-24T18:24:11.289Z",
+    "updated_at": "2026-09-25T20:16:49.945Z",
     "schedules": [
       {
         "start_time": "2026-09-29T08:00:00+08:00",
@@ -1543,6 +1374,35 @@
     "schedules": [
       {
         "start_time": "2026-09-29T22:00:00+08:00",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
+    "id": "evt-smx-d4588e029a6b",
+    "category": "EXPO_COMMUNITY",
+    "title": "2026 PAO Congress",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx",
+      "name": "SMX Convention Center Manila",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Lane, Mall of Asia Complex, Pasay",
+      "lat": 14.5365,
+      "lng": 120.9835
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/2026-pao-congress/",
+    "updated_at": "2026-09-25T20:16:53.102Z",
+    "schedules": [
+      {
+        "start_time": "2026-09-30T08:00:00+08:00",
+        "end_time": "2026-10-02T20:00:00+08:00",
+        "screen_or_hall": "SMX Manila",
         "ticket_status": "AVAILABLE"
       }
     ]
@@ -1766,7 +1626,7 @@
       "expo"
     ],
     "booking_url": "https://www.smxconventioncenter.com/events/isogx-season-4-conference-cybersecurity-solution-pitch-and-exhibition/",
-    "updated_at": "2026-09-24T18:24:13.823Z",
+    "updated_at": "2026-09-25T20:17:14.692Z",
     "schedules": [
       {
         "start_time": "2026-10-01T08:00:00+08:00",
@@ -1795,7 +1655,7 @@
       "expo"
     ],
     "booking_url": "https://www.smxconventioncenter.com/events/isogx-season-4-conference-cybersecurity-solution-pitch-and-exhibition-2/",
-    "updated_at": "2026-09-24T18:24:15.074Z",
+    "updated_at": "2026-09-25T20:17:16.022Z",
     "schedules": [
       {
         "start_time": "2026-10-01T08:00:00+08:00",
@@ -1860,6 +1720,35 @@
     ]
   },
   {
+    "id": "evt-smx-99eb0ae7d6ca",
+    "category": "EXPO_COMMUNITY",
+    "title": "Cosplay Mania 2026",
+    "poster_url": "https://www.smxconventioncenter.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+    "venue": {
+      "id": "v-smx",
+      "name": "SMX Convention Center Manila",
+      "chain_or_organizer": "SM",
+      "city": "metro-manila",
+      "address": "Seashell Lane, Mall of Asia Complex, Pasay",
+      "lat": 14.5365,
+      "lng": 120.9835
+    },
+    "tags": [
+      "smx",
+      "expo"
+    ],
+    "booking_url": "https://www.smxconventioncenter.com/events/cosplay-mania-2026/",
+    "updated_at": "2026-09-25T20:16:56.132Z",
+    "schedules": [
+      {
+        "start_time": "2026-10-01T10:00:00+08:00",
+        "end_time": "2026-10-01T20:00:00+08:00",
+        "screen_or_hall": "SMX Manila",
+        "ticket_status": "AVAILABLE"
+      }
+    ]
+  },
+  {
     "id": "evt-smx-c89e9941a5fb",
     "category": "EXPO_COMMUNITY",
     "title": "Furniture Expo 2026",
@@ -1878,7 +1767,7 @@
       "expo"
     ],
     "booking_url": "https://www.smxconventioncenter.com/events/furniture-expo-2026/",
-    "updated_at": "2026-09-24T18:24:23.107Z",
+    "updated_at": "2026-09-25T20:17:25.862Z",
     "schedules": [
       {
         "start_time": "2026-10-01T10:00:00+08:00",
@@ -1907,7 +1796,7 @@
       "expo"
     ],
     "booking_url": "https://www.smxconventioncenter.com/events/go-study-abroad-fair-4/",
-    "updated_at": "2026-09-24T18:24:16.329Z",
+    "updated_at": "2026-09-25T20:17:17.351Z",
     "schedules": [
       {
         "start_time": "2026-10-02T14:00:00+08:00",
@@ -1990,7 +1879,7 @@
       "expo"
     ],
     "booking_url": "https://www.smxconventioncenter.com/events/momzilla-fair-2026/",
-    "updated_at": "2026-09-24T18:24:17.629Z",
+    "updated_at": "2026-09-25T20:17:20.273Z",
     "schedules": [
       {
         "start_time": "2026-10-03T10:00:00+08:00",
@@ -2019,7 +1908,7 @@
       "expo"
     ],
     "booking_url": "https://www.smxconventioncenter.com/events/philippine-international-cards-and-collectibles/",
-    "updated_at": "2026-09-24T18:24:31.908Z",
+    "updated_at": "2026-09-25T20:17:33.360Z",
     "schedules": [
       {
         "start_time": "2026-10-03T10:00:00+08:00",
@@ -2103,7 +1992,7 @@
       "expo"
     ],
     "booking_url": "https://www.wtcmanila.com.ph/calendar-of-activities/agrilink-foodlink-aqualink-2026/",
-    "updated_at": "2026-09-24T18:22:39.589Z",
+    "updated_at": "2026-09-25T20:15:27.557Z",
     "schedules": [
       {
         "start_time": "2026-10-08T09:00:00+08:00",
@@ -2213,7 +2102,7 @@
       "expo"
     ],
     "booking_url": "https://www.smxconventioncenter.com/events/cfo-l-i-v-e-2026/",
-    "updated_at": "2026-09-24T18:24:34.847Z",
+    "updated_at": "2026-09-25T20:17:36.510Z",
     "schedules": [
       {
         "start_time": "2026-10-10T10:00:00+08:00",
@@ -2424,7 +2313,7 @@
       "expo"
     ],
     "booking_url": "https://www.smxconventioncenter.com/events/7-11-tradeshow-2/",
-    "updated_at": "2026-09-24T18:24:36.311Z",
+    "updated_at": "2026-09-25T20:17:39.661Z",
     "schedules": [
       {
         "start_time": "2026-10-12T08:00:00+08:00",
@@ -2534,7 +2423,7 @@
       "expo"
     ],
     "booking_url": "https://www.wtcmanila.com.ph/calendar-of-activities/manila-fame-2026/",
-    "updated_at": "2026-09-24T18:22:40.640Z",
+    "updated_at": "2026-09-25T20:15:28.680Z",
     "schedules": [
       {
         "start_time": "2026-10-15T09:00:00+08:00",
@@ -2928,7 +2817,7 @@
       "expo"
     ],
     "booking_url": "https://www.wtcmanila.com.ph/calendar-of-activities/event-experience-expo-2026/",
-    "updated_at": "2026-09-24T18:22:38.511Z",
+    "updated_at": "2026-09-25T20:15:25.267Z",
     "schedules": [
       {
         "start_time": "2026-10-28T10:00:00+08:00",
